@@ -1,7 +1,7 @@
 
 name: Refresh My IPTV Auto Playlist
 
-on:
+"on":
   workflow_dispatch:
   schedule:
     - cron: "*/30 * * * *"
@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Setup Python
@@ -22,13 +22,13 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install requirements
+      - name: Install dependencies
         run: pip install -r requirements.txt
 
       - name: Build playlist
         run: python scripts/build.py
 
-      - name: Save playlist
+      - name: Commit updated playlist
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -36,4 +36,6 @@ jobs:
           if ! git diff --cached --quiet; then
             git commit -m "Auto update IPTV playlist"
             git push
+          else
+            echo "No changes to commit"
           fi
