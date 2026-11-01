@@ -1,3 +1,8 @@
 {
-  "status": "pending_first_refresh"
+  "updated_at": "2026-11-01T10:43:31Z",
+  "channels": 149,
+  "skipped": 1352,
+  "failed_sources": [
+    "All-Playlist (sportlive18): 404 Client Error: Not Found for url: https://raw.githubusercontent.com/sportlive18/All-Playlist/main/combined.m3u"
+  ]
 }
