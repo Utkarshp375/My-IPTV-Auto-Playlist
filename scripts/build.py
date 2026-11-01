@@ -1,153 +1,309 @@
-from __future__ import annotations
-import json, re, sys, time
+
+import json
+import re
+import sys
+import time
 from pathlib import Path
-from urllib.parse import urlparse, urlunparse
+from urllib.parse import urlparse
+
 import requests
 
-ROOT = Path(__file__).resolve().parents[1]
-CONFIG = ROOT / "config" / "sources.json"
-DATA = ROOT / "data"
-UA = "MyIPTVHub/2.0 playlist-refresh (+https://github.com/)"
+ROOT = Path(__file__).resolve().parent.parent
+CONFIG_FILE = ROOT / "config" / "sources.json"
+DATA_DIR = ROOT / "data"
+OUTPUT_FILE = ROOT / "playlist.m3u"
+
 TIMEOUT = 35
+MAX_BYTES = 40 * 1024 * 1024
+
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36"
+}
+
+# Protected/authenticated stream instructions are never imported.
+BLOCKED_MARKERS = (
+    "#KODIPROP:",
+    "#EXTHTTP:",
+    "#EXTVLCOPT:",
+    "license_key",
+    "license_type",
+    "clearkey",
+    "cookie=",
+    "authorization=",
+    "stream_headers=",
+    "http-extra-headers",
+)
+
+URL_FIELDS = (
+    "url", "stream_url", "streamUrl", "m3u8",
+    "m3u8_url", "hls_url", "hlsUrl",
+    "play_url", "playUrl"
+)
+
+NAME_FIELDS = ("name", "channel_name", "channelName", "title")
+LOGO_FIELDS = ("logo", "tvg_logo", "image", "icon")
+GROUP_FIELDS = ("group", "category", "genre", "language")
 
 
-def attrs(line: str) -> dict:
-    return {k.lower(): v for k, v in re.findall(r'([\w-]+)="([^"]*)"', line)}
+def get_text(url):
+    response = requests.get(
+        url,
+        headers=HEADERS,
+        timeout=TIMEOUT,
+        stream=True
+    )
+    response.raise_for_status()
 
+    chunks = []
+    total = 0
 
-def safe_text(value: str) -> str:
-    return str(value or "").replace('"', "'").replace("\r", " ").replace("\n", " ").strip()
-
-
-def parse_m3u(text: str, source_name: str) -> tuple[list[dict], int]:
-    """Import direct HLS URLs only; never copy DRM directives or injected credentials/headers."""
-    imported, rejected = [], 0
-    current = None
-    block = []
-
-    def flush():
-        nonlocal current, block, rejected
-        if current is None:
-            block = []
-            return
-        joined = "\n".join(block).lower()
-        blocked = (
-            "#kodiprop:", "license_key", "license_type", "#exthttp:",
-            "#extvlcopt:", "cookie=", "authorization=", "|user-agent=",
-            "|referer=", "|cookie=", "|origin=", "http-extra-headers",
-            "stream_headers="
-        )
-        url_line = next((x.strip() for x in block if x.strip() and not x.strip().startswith("#")), "")
-        parsed = urlparse(url_line)
-        if (any(x in joined for x in blocked) or "|" in url_line or
-            parsed.scheme not in ("http", "https") or not parsed.netloc or
-            not parsed.path.lower().endswith(".m3u8")):
-            rejected += 1
-        else:
-            current["url"] = url_line
-            current["format"] = "hls"
-            current["source"] = source_name
-            current["name"] = safe_text(current["name"]) or "Unknown channel"
-            current["group"] = safe_text(current["group"]) or "Other"
-            current["language"] = safe_text(current["language"])
-            imported.append(current)
-        current, block = None, []
-
-    for raw in text.lstrip("\ufeff").splitlines():
-        line = raw.strip()
-        if not line or line.startswith("#EXTM3U") or line.startswith("#====="):
+    for chunk in response.iter_content(65536):
+        if not chunk:
             continue
+        total += len(chunk)
+        if total > MAX_BYTES:
+            raise ValueError("Source file exceeds 40 MB")
+        chunks.append(chunk)
+
+    return b"".join(chunks).decode("utf-8-sig", errors="replace")
+
+
+def is_public_hls(url):
+    """Accept direct HTTP(S) .m3u8 URLs only."""
+    try:
+        parsed = urlparse(url.strip())
+        return (
+            parsed.scheme in ("http", "https")
+            and parsed.path.lower().endswith(".m3u8")
+            and not parsed.username
+            and not parsed.password
+        )
+    except Exception:
+        return False
+
+
+def clean(value):
+    if value is None:
+        return ""
+    return re.sub(r"[\r\n\t]+", " ", str(value)).strip()
+
+
+def first_value(item, fields, default=""):
+    for field in fields:
+        value = item.get(field)
+        if value:
+            return clean(value)
+    return default
+
+
+def extract_items(data):
+    """Handle common JSON list/container layouts."""
+    if isinstance(data, list):
+        return [x for x in data if isinstance(x, dict)]
+
+    if isinstance(data, dict):
+        for key in ("items", "channels", "data", "results", "channel_list"):
+            value = data.get(key)
+            if isinstance(value, list):
+                return [x for x in value if isinstance(x, dict)]
+            if isinstance(value, dict):
+                nested = extract_items(value)
+                if nested:
+                    return nested
+
+    return []
+
+
+def make_channel(item, source_name, default_group):
+    url = first_value(item, URL_FIELDS)
+
+    # MPD and other protected formats are deliberately excluded.
+    if not url or not is_public_hls(url):
+        return None
+
+    name = first_value(item, NAME_FIELDS, "Unknown Channel")
+    logo = first_value(item, LOGO_FIELDS)
+    group = first_value(item, GROUP_FIELDS, default_group)
+
+    return {
+        "name": name,
+        "url": url,
+        "logo": logo,
+        "group": group or default_group,
+        "source": source_name,
+    }
+
+
+def fetch_json_channels(source):
+    print(f"[JSON] Fetching {source['name']} ...")
+    data = json.loads(get_text(source["url"]))
+    items = extract_items(data)
+
+    channels = []
+    for item in items:
+        channel = make_channel(
+            item,
+            source["name"],
+            source.get("group", source["name"])
+        )
+        if channel:
+            channels.append(channel)
+
+    print(
+        f"[JSON] {source['name']}: "
+        f"{len(channels)} public HLS channels accepted "
+        f"from {len(items)} records"
+    )
+    return channels
+
+
+def parse_m3u_source(source):
+    print(f"[M3U] Fetching {source['name']} ...")
+    content = get_text(source["url"])
+    lines = content.splitlines()
+
+    channels = []
+    current_info = None
+    blocked = False
+
+    for line in lines:
+        line = line.strip()
+
+        if not line:
+            continue
+
         if line.startswith("#EXTINF:"):
-            flush()
-            title = line.rsplit(",", 1)[-1].strip() if "," in line else "Unknown channel"
-            a = attrs(line)
-            current = {
-                "name": title,
-                "tvg_id": a.get("tvg-id", ""),
-                "logo": a.get("tvg-logo", ""),
-                "language": a.get("tvg-language", a.get("language", "")),
-                "group": a.get("group-title", "Other"),
-                "source": source_name,
-                "url": "", "format": ""
-            }
-            block = [line]
-        elif current is not None:
-            block.append(line)
-    flush()
-    return imported, rejected
+            current_info = line
+            blocked = False
+            continue
+
+        if current_info is None:
+            continue
+
+        if line.startswith("#"):
+            if any(marker in line.lower() for marker in BLOCKED_MARKERS):
+                blocked = True
+            continue
+
+        url = line
+
+        if blocked or not is_public_hls(url):
+            current_info = None
+            blocked = False
+            continue
+
+        name_match = re.search(r",\s*(.*?)\s*$", current_info)
+        name = name_match.group(1) if name_match else source["name"]
+
+        logo_match = re.search(r'tvg-logo="([^"]*)"', current_info)
+        group_match = re.search(r'group-title="([^"]*)"', current_info)
+
+        channels.append({
+            "name": clean(name),
+            "url": url,
+            "logo": logo_match.group(1) if logo_match else "",
+            "group": group_match.group(1) if group_match else source.get("name", "Other"),
+            "source": source["name"],
+        })
+
+        current_info = None
+        blocked = False
+
+    print(f"[M3U] {source['name']}: {len(channels)} accepted")
+    return channels
 
 
-def fetch_text(url: str) -> str:
-    r = requests.get(url, timeout=TIMEOUT, headers={"User-Agent": UA})
-    r.raise_for_status()
-    if len(r.content) > 40 * 1024 * 1024:
-        raise ValueError("Playlist exceeds 40 MB safety limit")
-    return r.text
+def make_playlist(channels):
+    lines = [
+        "#EXTM3U",
+        f"#PLAYLIST:{'My IPTV Auto Playlist'}",
+    ]
+
+    for channel in channels:
+        name = clean(channel["name"]).replace('"', "'")
+        logo = clean(channel["logo"]).replace('"', "'")
+        group = clean(channel["group"]).replace('"', "'")
+
+        lines.append(
+            f'#EXTINF:-1 tvg-name="{name}" '
+            f'tvg-logo="{logo}" group-title="{group}",{name}'
+        )
+        lines.append(channel["url"])
+
+    return "\n".join(lines) + "\n"
 
 
 def main():
-    config = json.loads(CONFIG.read_text(encoding="utf-8"))
-    channels, rejected, failures = [], 0, []
-    for src in config.get("sources", []):
-        if not src.get("enabled", True):
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+
+    with open(CONFIG_FILE, "r", encoding="utf-8") as file:
+        config = json.load(file)
+
+    all_channels = []
+    failures = []
+
+    for source in config.get("sources", []):
+        if not source.get("enabled", True):
             continue
-        name, url = src.get("name", "Playlist"), src.get("url", "")
-        if not url:
-            continue
+
         try:
-            print(f"Fetching {name}: {url}")
-            parsed, skipped = parse_m3u(fetch_text(url), name)
-            print(f"  accepted {len(parsed)} HLS entries; skipped {skipped} unsupported/protected entries")
-            channels.extend(parsed)
-            rejected += skipped
-        except Exception as e:
-            failures.append(f"{name}: {e}")
-            print(f"WARNING: {name}: {e}", file=sys.stderr)
+            if source.get("format", "m3u").lower() == "m3u":
+                all_channels.extend(parse_m3u_source(source))
+        except Exception as error:
+            message = f"{source.get('name', 'M3U')}: {error}"
+            failures.append(message)
+            print("[ERROR]", message)
 
-    # Do not overwrite a previously generated playlist with an empty result after a source outage.
-    if not channels:
-        raise SystemExit("No usable HLS entries fetched. Existing playlist files were left unchanged. " + "; ".join(failures))
+    for source in config.get("json_sources", []):
+        if not source.get("enabled", True):
+            continue
 
-    unique, seen = [], set()
-    for ch in channels:
-        # Exact URL de-duplication preserves separate language/audio variants.
-        key = ch["url"].strip()
-        if key not in seen:
-            seen.add(key)
-            unique.append(ch)
+        try:
+            all_channels.extend(fetch_json_channels(source))
+        except Exception as error:
+            message = f"{source.get('name', 'JSON')}: {error}"
+            failures.append(message)
+            print("[ERROR]", message)
 
-    DATA.mkdir(exist_ok=True)
-    generated = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
-    payload = {
-        "title": config.get("playlist_title", "My IPTV Auto Playlist"),
-        "generated_at": generated,
-        "channel_count": len(unique),
-        "source_count": sum(1 for s in config.get("sources", []) if s.get("enabled", True)),
-        "sources": [s.get("name", "Playlist") for s in config.get("sources", []) if s.get("enabled", True)],
-        "skipped_unsupported_or_protected": rejected,
-        "source_failures": failures,
-        "epg_urls": config.get("epg_urls", []),
-        "repository_integrations": config.get("repository_integrations", []),
-        "channels": unique
+    # Deduplicate exact stream URLs.
+    unique = []
+    seen = set()
+
+    for channel in all_channels:
+        url = channel["url"].strip()
+        if url in seen:
+            continue
+        seen.add(url)
+        unique.append(channel)
+
+    if not unique:
+        print("[FAIL] No usable public HLS channels found.")
+        print("[FAIL] Existing playlist has not been overwritten.")
+        sys.exit(1)
+
+    playlist = make_playlist(unique)
+
+    OUTPUT_FILE.write_text(playlist, encoding="utf-8")
+    (DATA_DIR / "combined.m3u").write_text(playlist, encoding="utf-8")
+
+    with open(DATA_DIR / "channels.json", "w", encoding="utf-8") as file:
+        json.dump(unique, file, indent=2, ensure_ascii=False)
+
+    status = {
+        "updated_at_utc": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+        "total_channels": len(unique),
+        "sources_failed": failures,
     }
-    (DATA / "channels.json").write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-    lines = ["#EXTM3U"]
-    for ch in unique:
-        lines.append(
-            f'#EXTINF:-1 tvg-id="{safe_text(ch["tvg_id"])}" tvg-name="{safe_text(ch["name"])}" '
-            f'tvg-logo="{safe_text(ch["logo"])}" tvg-language="{safe_text(ch["language"])}" '
-            f'group-title="{safe_text(ch["group"])}",{safe_text(ch["name"])}'
-        )
-        lines.append(ch["url"])
-    m3u = "\n".join(lines) + "\n"
-    (DATA / "combined.m3u").write_text(m3u, encoding="utf-8")
-    # Stable root-level alias for IPTV players; content changes, URL does not.
-    (ROOT / "playlist.m3u").write_text(m3u, encoding="utf-8")
-    (DATA / "status.json").write_text(json.dumps({
-        "updated_at": generated, "channels": len(unique), "skipped": rejected,
-        "failed_sources": failures
-    }, indent=2), encoding="utf-8")
-    print(f"SUCCESS: generated {len(unique)} unique HLS entries; skipped {rejected} unsupported/protected entries")
+
+    with open(DATA_DIR / "status.json", "w", encoding="utf-8") as file:
+        json.dump(status, file, indent=2, ensure_ascii=False)
+
+    print("--------------------------------")
+    print(f"[SUCCESS] Total channels: {len(unique)}")
+    print(f"[SUCCESS] Playlist: {OUTPUT_FILE}")
+    print(f"[INFO] Failed sources: {len(failures)}")
+    print("--------------------------------")
+
 
 if __name__ == "__main__":
     main()
