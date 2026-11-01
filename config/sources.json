@@ -1,66 +1,82 @@
+
 {
   "playlist_title": "My IPTV Auto Playlist",
   "update_interval_minutes": 30,
+
   "sources": [
     {
       "name": "All-Playlist (sportlive18)",
       "url": "https://raw.githubusercontent.com/sportlive18/All-Playlist/main/combined.m3u",
       "enabled": true,
       "format": "m3u",
-      "type": "combined",
-      "note": "Confirmed repository output: combined.m3u. Aggregates multiple channel providers."
+      "type": "combined"
     },
     {
-      "name": "Sportlink Update / Jio TV Auto Update (sportlive18)",
+      "name": "Sportlink Update",
       "url": "https://raw.githubusercontent.com/sportlive18/sportlink-update/main/Combined.m3u",
       "enabled": true,
       "format": "m3u",
-      "type": "combined",
-      "note": "The old jio-tv-auto-update-playlist URL currently redirects to sportlink-update; import this output once only to avoid duplicate fetches."
+      "type": "combined"
     },
     {
-      "name": "FanCode Auto Update (sportlive18)",
+      "name": "FanCode Auto Update",
       "url": "https://raw.githubusercontent.com/sportlive18/Fancode-New-Auto-Update/main/fancode.m3u",
       "enabled": true,
       "format": "m3u",
-      "type": "sports",
-      "note": "Confirmed output file in repository. Only public direct HLS entries without protected headers are accepted."
+      "type": "sports"
     },
     {
-      "name": "SonyLIV Auto Update (sportlive18)",
+      "name": "SonyLIV Auto Update",
       "url": "https://raw.githubusercontent.com/sportlive18/Sonyliv-Playlist-Autoupdate/main/sonyliv.m3u",
       "enabled": true,
       "format": "m3u",
-      "type": "sports",
-      "note": "Confirmed output file in repository."
+      "type": "sports"
     },
     {
-      "name": "SonyLIV Auto Update alternate (sportlive18)",
+      "name": "SonyLIV Auto Update Alternate",
       "url": "https://raw.githubusercontent.com/sportlive18/Sonyliv-Playlist-Autoupdate/main/sonyliv2.m3u",
       "enabled": true,
       "format": "m3u",
-      "type": "sports",
-      "note": "Second published playlist; exact duplicate URLs are removed during merge."
+      "type": "sports"
     }
   ],
+
+  "json_sources": [
+    {
+      "name": "JioTV",
+      "url": "https://sportlink-jtv.pages.dev/ztv.json",
+      "enabled": true,
+      "format": "json",
+      "group": "JioTV"
+    },
+    {
+      "name": "Hotstar",
+      "url": "https://sportlink-jtv.pages.dev/hstar.json",
+      "enabled": true,
+      "format": "json",
+      "group": "Hotstar"
+    }
+  ],
+
   "epg_urls": [
     "https://www.tsepg.cf/epg.xml.gz"
   ],
+
   "repository_integrations": [
     {
       "repository": "https://github.com/sportlive18/Sportlink-Live",
       "status": "reviewed-reference",
-      "reason": "Repository contains api, fancode, live, prime, willow and world-sports modules plus fetch_and_generate.py. No verified root-level M3U output URL was found during this integration, so it is documented but not guessed as a feed."
+      "reason": "Reference repository for sports integrations."
     },
     {
       "repository": "https://github.com/sportlive18/sportlink-10",
       "status": "ui-reference",
-      "reason": "Repository contains FanCode web pages (FC.html, fancode.html, fancode2.html, fc-ios.html, fc-play.html, index.html, play.html), not a confirmed standalone M3U output. Its player UI is not imported into the playlist."
+      "reason": "Reference repository for player UI."
     },
     {
       "repository": "https://github.com/sportlive18/jio-tv-auto-update-playlist",
       "status": "alias",
-      "reason": "GitHub currently redirects this repository URL to sportlink-update; integrated once using sportlink-update/Combined.m3u."
+      "reason": "Redirects to sportlink-update; imported once through its Combined.m3u output."
     }
   ]
 }
