@@ -1,0 +1,25 @@
+{
+  "integrated_as_playlist_feeds": [
+    "sportlive18/All-Playlist",
+    "sportlive18/sportlink-update (old jio-tv-auto-update-playlist redirects here)",
+    "sportlive18/Fancode-New-Auto-Update",
+    "sportlive18/Sonyliv-Playlist-Autoupdate"
+  ],
+  "reviewed_but_not_imported_as_playlist": [
+    {
+      "repo": "sportlive18/Sportlink-Live",
+      "why": "Contains web/API modules; no verified M3U output endpoint identified yet."
+    },
+    {
+      "repo": "sportlive18/sportlink-10",
+      "why": "FanCode web UI/player pages, not a playlist feed."
+    }
+  ],
+  "rules": [
+    "Only direct HTTP(S) HLS .m3u8 URLs are imported.",
+    "DRM/license-key/cookie/auth/header-injected entries are skipped.",
+    "Duplicate exact stream URLs are removed.",
+    "One failed source does not block successful sources.",
+    "If all sources fail or produce no usable streams, existing playlist is preserved."
+  ]
+}
