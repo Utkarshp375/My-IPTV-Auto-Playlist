@@ -1,8 +1,78 @@
 [
   {
-    "name": "Atletico de Madrid vs FC Bayern Munich - 3 Nov 2026 [ENG] - UEFA Youth League 2026-27",
-    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793764092~acl=/*~id=79508245094121998315499543628347~hmac=a112902380f3e9c2b2d0aeab4bbc15fc7cc5dbe8675e4b5343ef2ce169c6e7fb",
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792890253126359_UYL26_MD4_Atletico_vs_Bayern_landscape_thumb.jpg",
+    "name": "Manchester United vs AS Roma - 4 Nov 2026 [ENG] - UEFA Champions League 2026-27",
+    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793784121~acl=/*~id=57785697416485455596289285891556~hmac=2f005b387c7d937a9591733ab28cff253bf86db85055cc1b806ff445f5f45350",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952482824378_UCL26_MD4_Man_United_vs_AS_Roma_eng_landscape_thumb.jpg",
+    "group": "SonyLIV | Sportlink",
+    "source": "Sportlink Update"
+  },
+  {
+    "name": "Manchester United vs AS Roma - 4 Nov 2026 [HIN] - UEFA Champions League 2026-27",
+    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/footlive0311/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793784121~acl=/*~id=57785697416485455596289285891556~hmac=2f005b387c7d937a9591733ab28cff253bf86db85055cc1b806ff445f5f45350",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952482824378_UCL26_MD4_Man_United_vs_AS_Roma_eng_landscape_thumb.jpg",
+    "group": "SonyLIV | Sportlink",
+    "source": "Sportlink Update"
+  },
+  {
+    "name": "Manchester United vs AS Roma - 4 Nov 2026 [TAM] - UEFA Champions League 2026-27",
+    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/footlive0311/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793784121~acl=/*~id=57785697416485455596289285891556~hmac=2f005b387c7d937a9591733ab28cff253bf86db85055cc1b806ff445f5f45350",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952482824378_UCL26_MD4_Man_United_vs_AS_Roma_eng_landscape_thumb.jpg",
+    "group": "SonyLIV | Sportlink",
+    "source": "Sportlink Update"
+  },
+  {
+    "name": "Manchester United vs AS Roma - 4 Nov 2026 [TEL] - UEFA Champions League 2026-27",
+    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/footlive0311/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793784121~acl=/*~id=57785697416485455596289285891556~hmac=2f005b387c7d937a9591733ab28cff253bf86db85055cc1b806ff445f5f45350",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952482824378_UCL26_MD4_Man_United_vs_AS_Roma_eng_landscape_thumb.jpg",
+    "group": "SonyLIV | Sportlink",
+    "source": "Sportlink Update"
+  },
+  {
+    "name": "Manchester United vs AS Roma - 4 Nov 2026 [KAN] - UEFA Champions League 2026-27",
+    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/footlive0311/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793784121~acl=/*~id=57785697416485455596289285891556~hmac=2f005b387c7d937a9591733ab28cff253bf86db85055cc1b806ff445f5f45350",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952482824378_UCL26_MD4_Man_United_vs_AS_Roma_eng_landscape_thumb.jpg",
+    "group": "SonyLIV | Sportlink",
+    "source": "Sportlink Update"
+  },
+  {
+    "name": "Barcelona vs Aston Villa - 4 Nov 2026 [ENG] - UEFA Champions League 2026-27",
+    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793784121~acl=/*~id=57785697416485455596289285891556~hmac=2f005b387c7d937a9591733ab28cff253bf86db85055cc1b806ff445f5f45350",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792951817788378_UCL26_MD4_Barcelona_vs_Aston_Villa_landscape_thumb.jpg",
+    "group": "SonyLIV | Sportlink",
+    "source": "Sportlink Update"
+  },
+  {
+    "name": "Atlético de Madrid vs Bayern Munich - 4 Nov 2026 [ENG] - UEFA Champions League 2026-27",
+    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793784121~acl=/*~id=57785697416485455596289285891556~hmac=2f005b387c7d937a9591733ab28cff253bf86db85055cc1b806ff445f5f45350",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952088187378_UCL26_MD4_Atletico_vs_Bayern_landscape_thumb.jpg",
+    "group": "SonyLIV | Sportlink",
+    "source": "Sportlink Update"
+  },
+  {
+    "name": "Villarreal vs PSG - 4 Nov 2026 [ENG] - UEFA Champions League 2026-27",
+    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793784121~acl=/*~id=57785697416485455596289285891556~hmac=2f005b387c7d937a9591733ab28cff253bf86db85055cc1b806ff445f5f45350",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792953428976243_UCL26_MD4_Villarreal_vs_PSG_landscape_thumb.jpg",
+    "group": "SonyLIV | Sportlink",
+    "source": "Sportlink Update"
+  },
+  {
+    "name": "Feyenoord vs Inter Milan - 4 Nov 2026 [ENG] - UEFA Champions League 2026-27",
+    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793784121~acl=/*~id=57785697416485455596289285891556~hmac=2f005b387c7d937a9591733ab28cff253bf86db85055cc1b806ff445f5f45350",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952919459378_UCL26_MD4_Feyenoord_vs_Inter_Milan_landscape_thumb.jpg",
+    "group": "SonyLIV | Sportlink",
+    "source": "Sportlink Update"
+  },
+  {
+    "name": "LASK vs Slovan Bratislava - 4 Nov 2026 [ENG] - UEFA Champions League 2026-27",
+    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2094587/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793784121~acl=/*~id=57785697416485455596289285891556~hmac=2f005b387c7d937a9591733ab28cff253bf86db85055cc1b806ff445f5f45350",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792953756095378_UCL26_MD4_LASK_vs_Bratislava_landscape_thumb.jpg",
+    "group": "SonyLIV | Sportlink",
+    "source": "Sportlink Update"
+  },
+  {
+    "name": "Bodø/Glimt vs Lille - 4 Nov 2026 [ENG] - UEFA Champions League 2026-27",
+    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793784121~acl=/*~id=57785697416485455596289285891556~hmac=2f005b387c7d937a9591733ab28cff253bf86db85055cc1b806ff445f5f45350",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792953144488378_UCL26_MD4_Bodo_vs_Lille_landscape_thumb.jpg",
     "group": "SonyLIV | Sportlink",
     "source": "Sportlink Update"
   },
@@ -987,74 +1057,102 @@
     "source": "Sportlink Update"
   },
   {
-    "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/4250502_53130_EMB_EMR_fc-web_1792412929332.jpg\" group-title=\"Fancode-Cricket\", Emirates D20, 2026 [English]",
-    "url": "https://in-mc-flive.fancode.com/mumbai/4250502_english_hls_8f3b8db56d55181_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793794993~_GO=Generated~acl=/mumbai/4250502_english_hls_8f3b8db56d55181_1ta-di_h264/*~SessionID=fc-app_sportsguruand_1b0_watcho_40dcead3-fa36-4b~Signature=AV7HGj5f9obXGLC-NAHAzGsantSffPPMX5WGQb-NYzhHLJSsNqlCOdgN5m-vG_dllJpPErNkQOuJJHHss38UAFTBksID",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/4250502_53130_EMB_EMR_fc-web_1792412929332.jpg",
-    "group": "Fancode-Cricket",
-    "source": "FanCode Auto Update"
-  },
-  {
-    "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/4249007_53057_EBFC_ALS_fc-web_1789025066061.jpg\" group-title=\"Fancode-Football\", AFC Champions League Two 2026-27 [English]",
-    "url": "https://in-mc-flive.fancode.com/mumbai/4249007_english_hls_714b7bf86f61255_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793799261~_GO=Generated~acl=/mumbai/4249007_english_hls_714b7bf86f61255_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e06_watcho_6db853c8-511b-4b~Signature=AV7HGj5jROfjUWhciJKlSx5wemJK4CrlUx1hCqZ1nWhl1fx_wyMOmnyazzfSpeYQFcoBggzwVwuv68MXPUXccXVLDtMK",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/4249007_53057_EBFC_ALS_fc-web_1789025066061.jpg",
+    "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/4250006_52993_WBA_SOU_fc-web.jpg\" group-title=\"Fancode-Football\", EFL Championship 2026-27 [English]",
+    "url": "https://in-mc-flive.fancode.com/mumbai/4250006_english_hls_fb6b33f21815004_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793821692~_GO=Generated~acl=/mumbai/4250006_english_hls_fb6b33f21815004_1ta-di_h264/*~SessionID=fc-app_sportsguruand_1d8_watcho_c6bb0884-b573-4d~Signature=AV7HGj4UkiZh9OD4NBkSUc3YJwHEgaHXSzgiEEcFcK4iWT5R6Tir3au8a1w2m9f2l43dMhRW8Mmfo17cZcFt-cD7ZL4E",
+    "logo": "https://www.fancode.com/skillup-uploads/cms-media/4250006_52993_WBA_SOU_fc-web.jpg",
     "group": "Fancode-Football",
     "source": "FanCode Auto Update"
   },
   {
     "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg\" group-title=\"Fancode-Tennis\", ATP Masters - Rolex Paris Masters 2026 [English]",
-    "url": "https://in-mc-flive.fancode.com/mumbai/4250551_english_hls_f43aad1fa760894_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793785896~_GO=Generated~acl=/mumbai/4250551_english_hls_f43aad1fa760894_1ta-di_h264/*~SessionID=fc-app_sportsguruand_6a5_watcho_af817ac4-a1c0-48~Signature=AV7HGj4iPn1hndZ1OjiQXO4yRKyA-5dU-UbBO6e0jiacD9jbtkGYjXlJ75oufzgmy7nAgmtqoeXLrbUp--RZN61zzdcH",
+    "url": "https://in-mc-flive.fancode.com/mumbai/4250552_english_hls_0f67fd0f6498945_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793815023~_GO=Generated~acl=/mumbai/4250552_english_hls_0f67fd0f6498945_1ta-di_h264/*~SessionID=fc-app_sportsguruand_da1_watcho_75fc3dbb-5cb3-4e~Signature=AV7HGj6PeZoPJIqxotgHUbhqI89RNzvXUTgLsKv-5J4Gd8SpKqzx46J3rUjeK8h3psaFHbVTUREOTkOleOrB5kKd8fsP",
     "logo": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
     "group": "Fancode-Tennis",
     "source": "FanCode Auto Update"
   },
   {
     "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg\" group-title=\"Fancode-Tennis\", ATP Masters - Rolex Paris Masters 2026 [English]",
-    "url": "https://in-mc-flive.fancode.com/mumbai/4250552_english_hls_0f67fd0f6498945_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793785897~_GO=Generated~acl=/mumbai/4250552_english_hls_0f67fd0f6498945_1ta-di_h264/*~SessionID=fc-app_sportsguruand_d90_watcho_7ad44bb3-5178-48~Signature=AV7HGj7S1SQCrYM_1dUZSJJ00VFEdDQXHHxI6MPYc6I0dB-Xuv4EZAatlSg_4rNET20ARCUmvZ94GfK7RAf3KncqvbAF",
+    "url": "https://in-mc-flive.fancode.com/mumbai/4250649_english_hls_8afb1495eb66255_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793818661~_GO=Generated~acl=/mumbai/4250649_english_hls_8afb1495eb66255_1ta-di_h264/*~SessionID=fc-app_sportsguruand_119_watcho_9a7d9803-fd1d-4e~Signature=AV7HGj6SV0xkK1M5wcD0nj77gSLsVSfYZ61H7tIYuT56QbqRCs-049iNrltb07k8kO4k0gbGwgkZ_OuuUz5BduwjzPYL",
     "logo": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
     "group": "Fancode-Tennis",
     "source": "FanCode Auto Update"
   },
   {
-    "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg\" group-title=\"Fancode-Tennis\", ATP Masters - Rolex Paris Masters 2026 [English]",
-    "url": "https://in-mc-flive.fancode.com/mumbai/4250554_english_hls_6b1499b9d656750_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793785898~_GO=Generated~acl=/mumbai/4250554_english_hls_6b1499b9d656750_1ta-di_h264/*~SessionID=fc-app_sportsguruand_46c_watcho_3770539b-a8b5-40~Signature=AV7HGj583UGaw_fzDOHxnIZLE8Lq46Pxku0bkVgbFsj70rwov_uE36lv8BoOTq-mioV6J1_2ou9OwS-_9Laq4sPnwn8C",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
-    "group": "Fancode-Tennis",
-    "source": "FanCode Auto Update"
+    "name": "Manchester United vs AS Roma - 4 Nov 2026 [ENG] - UEFA Champions League 2026-27",
+    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793784728~acl=/*~id=07803852780581321150325824336651~hmac=642440c6d9187e88da74bd1df29cb35e198640ee1811bfbe7edb7d9db98ca379",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952482824378_UCL26_MD4_Man_United_vs_AS_Roma_eng_landscape_thumb.jpg",
+    "group": "sonyliv-Football",
+    "source": "SonyLIV Auto Update"
   },
   {
-    "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg\" group-title=\"Fancode-Tennis\", ATP Masters - Rolex Paris Masters 2026 [English]",
-    "url": "https://in-mc-flive.fancode.com/mumbai/4250553_english_hls_e6a17d4feb56039_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793789537~_GO=Generated~acl=/mumbai/4250553_english_hls_e6a17d4feb56039_1ta-di_h264/*~SessionID=fc-app_sportsguruand_654_watcho_b0e6c0e3-bece-44~Signature=AV7HGj7O9efCaeni2PGTwjhGdPhdLw1GrqziAum9Kz-6RMMXGvJZlsG3dQOieSiy5-QPGM6Z4U0L14ZJ0m7OJMBTdAoE",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
-    "group": "Fancode-Tennis",
-    "source": "FanCode Auto Update"
+    "name": "Manchester United vs AS Roma - 4 Nov 2026 [HIN] - UEFA Champions League 2026-27",
+    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/footlive0311/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793784728~acl=/*~id=07803852780581321150325824336651~hmac=642440c6d9187e88da74bd1df29cb35e198640ee1811bfbe7edb7d9db98ca379",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952482824378_UCL26_MD4_Man_United_vs_AS_Roma_eng_landscape_thumb.jpg",
+    "group": "sonyliv-Football",
+    "source": "SonyLIV Auto Update"
   },
   {
-    "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/APL-Draft-2026_Auction_fc-web.jpg\" group-title=\"Fancode-Live Events\", APL Draft 2026 vs United Arab Emirates (APL Draft 2026)",
-    "url": "https://in-mc-flive.fancode.com/mumbai/4250648_english_hls_8c3d5db37b90901_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793787718~_GO=Generated~acl=/mumbai/4250648_english_hls_8c3d5db37b90901_1ta-di_h264/*~SessionID=122002764__bc06e5b1-d3ad-47~Signature=AV7HGj4KI1_9nJhMM4kF2JEa_tjFkzjGlcwFyb19g012UUQTKM3c7JaFN7N6hwbQ1IUKuje2Q7K5fdROIa4R7eQJFaIE",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/APL-Draft-2026_Auction_fc-web.jpg",
-    "group": "Fancode-Live Events",
-    "source": "FanCode Auto Update"
+    "name": "Manchester United vs AS Roma - 4 Nov 2026 [TAM] - UEFA Champions League 2026-27",
+    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/footlive0311/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793784728~acl=/*~id=07803852780581321150325824336651~hmac=642440c6d9187e88da74bd1df29cb35e198640ee1811bfbe7edb7d9db98ca379",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952482824378_UCL26_MD4_Man_United_vs_AS_Roma_eng_landscape_thumb.jpg",
+    "group": "sonyliv-Football",
+    "source": "SonyLIV Auto Update"
   },
   {
-    "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg\" group-title=\"Fancode-Tennis\", ATP Masters - Rolex Paris Masters 2026 [English]",
-    "url": "https://in-mc-flive.fancode.com/mumbai/4250649_english_hls_8afb1495eb66255_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793789538~_GO=Generated~acl=/mumbai/4250649_english_hls_8afb1495eb66255_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9dc_watcho_1878a835-58c6-4d~Signature=AV7HGj4dsB3NikKPzADXcEOdz47Vth_YipC9hWm1ln6N_fRx_SG8r6q60hTcmgFQkDaRBiuzalswmOoTtDrrLWTkAQ4H",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
-    "group": "Fancode-Tennis",
-    "source": "FanCode Auto Update"
+    "name": "Manchester United vs AS Roma - 4 Nov 2026 [TEL] - UEFA Champions League 2026-27",
+    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/footlive0311/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793784728~acl=/*~id=07803852780581321150325824336651~hmac=642440c6d9187e88da74bd1df29cb35e198640ee1811bfbe7edb7d9db98ca379",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952482824378_UCL26_MD4_Man_United_vs_AS_Roma_eng_landscape_thumb.jpg",
+    "group": "sonyliv-Football",
+    "source": "SonyLIV Auto Update"
   },
   {
-    "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/4248734_53053_ESG_ALS_fc-web.jpg\" group-title=\"Fancode-Football\", AFC Champions League Elite 2026-27 [English]",
-    "url": "https://in-mc-flive.fancode.com/mumbai/4248734_english_hls_265e50076317332_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793807138~_GO=Generated~acl=/mumbai/4248734_english_hls_265e50076317332_1ta-di_h264/*~SessionID=fc-app_sportsguruand_799_watcho_bce6664e-cc01-49~Signature=AV7HGj7SH91eclb-6hHsAXr6r8Zi9hCkQYPTwJMnG5nYWblO8EYkMRYj-s_fFtg4QzyGCSs5Y7enLlJL3tFu3u1uunQK",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/4248734_53053_ESG_ALS_fc-web.jpg",
-    "group": "Fancode-Football",
-    "source": "FanCode Auto Update"
+    "name": "Manchester United vs AS Roma - 4 Nov 2026 [KAN] - UEFA Champions League 2026-27",
+    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/footlive0311/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793784728~acl=/*~id=07803852780581321150325824336651~hmac=642440c6d9187e88da74bd1df29cb35e198640ee1811bfbe7edb7d9db98ca379",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952482824378_UCL26_MD4_Man_United_vs_AS_Roma_eng_landscape_thumb.jpg",
+    "group": "sonyliv-Football",
+    "source": "SonyLIV Auto Update"
   },
   {
-    "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/4249008_53057_HUS_SHR_fc-web_1789025065496.jpg\" group-title=\"Fancode-Football\", AFC Champions League Two 2026-27 [English]",
-    "url": "https://in-mc-flive.fancode.com/mumbai/4249008_english_hls_aac996ce7227954_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793807139~_GO=Generated~acl=/mumbai/4249008_english_hls_aac996ce7227954_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3ef_watcho_e60b905c-be7e-42~Signature=AV7HGj6XufIs3Yf9Ql_ZRCshCXSmBT9OISk17fhmgr8Vr1_OEEbV3gsKWlw3y-_5nl_0DkgFzVC6W1ii7RF1a44hIHQA",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/4249008_53057_HUS_SHR_fc-web_1789025065496.jpg",
-    "group": "Fancode-Football",
-    "source": "FanCode Auto Update"
+    "name": "Barcelona vs Aston Villa - 4 Nov 2026 [ENG] - UEFA Champions League 2026-27",
+    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793784728~acl=/*~id=07803852780581321150325824336651~hmac=642440c6d9187e88da74bd1df29cb35e198640ee1811bfbe7edb7d9db98ca379",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792951817788378_UCL26_MD4_Barcelona_vs_Aston_Villa_landscape_thumb.jpg",
+    "group": "sonyliv-Football",
+    "source": "SonyLIV Auto Update"
+  },
+  {
+    "name": "Atlético de Madrid vs Bayern Munich - 4 Nov 2026 [ENG] - UEFA Champions League 2026-27",
+    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793784728~acl=/*~id=07803852780581321150325824336651~hmac=642440c6d9187e88da74bd1df29cb35e198640ee1811bfbe7edb7d9db98ca379",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952088187378_UCL26_MD4_Atletico_vs_Bayern_landscape_thumb.jpg",
+    "group": "sonyliv-Football",
+    "source": "SonyLIV Auto Update"
+  },
+  {
+    "name": "Villarreal vs PSG - 4 Nov 2026 [ENG] - UEFA Champions League 2026-27",
+    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793784728~acl=/*~id=07803852780581321150325824336651~hmac=642440c6d9187e88da74bd1df29cb35e198640ee1811bfbe7edb7d9db98ca379",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792953428976243_UCL26_MD4_Villarreal_vs_PSG_landscape_thumb.jpg",
+    "group": "sonyliv-Football",
+    "source": "SonyLIV Auto Update"
+  },
+  {
+    "name": "Feyenoord vs Inter Milan - 4 Nov 2026 [ENG] - UEFA Champions League 2026-27",
+    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793784728~acl=/*~id=07803852780581321150325824336651~hmac=642440c6d9187e88da74bd1df29cb35e198640ee1811bfbe7edb7d9db98ca379",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952919459378_UCL26_MD4_Feyenoord_vs_Inter_Milan_landscape_thumb.jpg",
+    "group": "sonyliv-Football",
+    "source": "SonyLIV Auto Update"
+  },
+  {
+    "name": "LASK vs Slovan Bratislava - 4 Nov 2026 [ENG] - UEFA Champions League 2026-27",
+    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2094587/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793784728~acl=/*~id=07803852780581321150325824336651~hmac=642440c6d9187e88da74bd1df29cb35e198640ee1811bfbe7edb7d9db98ca379",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792953756095378_UCL26_MD4_LASK_vs_Bratislava_landscape_thumb.jpg",
+    "group": "sonyliv-Football",
+    "source": "SonyLIV Auto Update"
+  },
+  {
+    "name": "Bodø/Glimt vs Lille - 4 Nov 2026 [ENG] - UEFA Champions League 2026-27",
+    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793784728~acl=/*~id=07803852780581321150325824336651~hmac=642440c6d9187e88da74bd1df29cb35e198640ee1811bfbe7edb7d9db98ca379",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792953144488378_UCL26_MD4_Bodo_vs_Lille_landscape_thumb.jpg",
+    "group": "sonyliv-Football",
+    "source": "SonyLIV Auto Update"
   },
   {
     "name": "B4U Movies",
