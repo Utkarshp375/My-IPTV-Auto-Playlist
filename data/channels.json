@@ -1,5 +1,12 @@
 [
   {
+    "name": "2nd Unofficial Test - Day 4 - 3 Nov 2026 [ENG] - India A Tour of New Zealand",
+    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive0211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793710180~acl=/*~id=71945189424948802348775956154904~hmac=54355cadb14ac01506a25ebdd2a9b925687f2d0212a9caca01fd6cbdd2c7dad2",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027943/179347590688283_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day4_landscape_thumb.jpg",
+    "group": "SonyLIV | Sportlink",
+    "source": "Sportlink Update"
+  },
+  {
     "name": "Sony MAX HD",
     "url": "https://sliv.tgaadi.workers.dev/sonymaxhd.m3u8",
     "logo": "https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",
@@ -980,50 +987,15 @@
     "source": "Sportlink Update"
   },
   {
-    "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/4250501_53130_DUB_SHA_fc-web_1792412930100.jpg\" group-title=\"Fancode-Cricket\", Emirates D20, 2026 [English]",
-    "url": "https://in-mc-flive.fancode.com/mumbai/4250501_english_hls_ab493c21a565424_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793722626~_GO=Generated~acl=/mumbai/4250501_english_hls_ab493c21a565424_1ta-di_h264/*~SessionID=fc-app_sportsguruand_039_watcho_ca21da30-3f7b-4b~Signature=AV7HGj4iv6-1MFGf7a8NdnGP-XLvLucaW7FsrwGLo3ln5qCX3cWo2bMZx_YrBu4EEn1TJviV841gG0kuNa1Z624cfBoF",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/4250501_53130_DUB_SHA_fc-web_1792412930100.jpg",
+    "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg\" group-title=\"Fancode-Cricket\", Sheffield Shield, 2026/27 [English]",
+    "url": "https://in-mc-flive.fancode.com/mumbai/4249670_english_hls_72230a09d488245_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793748884~_GO=Generated~acl=/mumbai/4249670_english_hls_72230a09d488245_1ta-di_h264/*~SessionID=fc-app_sportsguruand_854_watcho_3690ae19-c231-4f~Signature=AV7HGj7CN8MJ7tFG0cuXTYpsFck-orJlrzDAyB8yFs8VGwK8x87wprxEhEc34EzIZzkbIdU468noSwGNiEVERwQR9xIL",
+    "logo": "https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg",
     "group": "Fancode-Cricket",
     "source": "FanCode Auto Update"
   },
   {
-    "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/4248729_53053_TFC_NB_fc-web.jpg\" group-title=\"Fancode-Football\", AFC Champions League Elite 2026-27 [English]",
-    "url": "https://in-mc-flive.fancode.com/mumbai/4248729_english_hls_3c976e05a48496_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793720807~_GO=Generated~acl=/mumbai/4248729_english_hls_3c976e05a48496_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0c0_watcho_befdc136-0dda-45~Signature=AV7HGj6ZjuK6d7_q_GPLp1DQK26Iy3Kb3kCi4SpDUigs-qLMIp-6lYv-YsSgOtweckNc8fygFo1KOEPaDlQlbJOCapkL",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/4248729_53053_TFC_NB_fc-web.jpg",
-    "group": "Fancode-Football",
-    "source": "FanCode Auto Update"
-  },
-  {
-    "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/4248730_53053_AWS_AFSC_fc-web.jpg\" group-title=\"Fancode-Football\", AFC Champions League Elite 2026-27 [English]",
-    "url": "https://in-mc-flive.fancode.com/mumbai/4248730_english_hls_23b9c020c441811_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793720809~_GO=Generated~acl=/mumbai/4248730_english_hls_23b9c020c441811_1ta-di_h264/*~SessionID=fc-app_sportsguruand_d2b_watcho_79135a67-5a5e-4d~Signature=AV7HGj7J_YUJPVeG0q2aD3KWT6W9lwv-WAs7H5DFJJt1ZaA40yXw_a6JemzkTozLjTiccRHr9F2qBctGw0zCbvwGM2cM",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/4248730_53053_AWS_AFSC_fc-web.jpg",
-    "group": "Fancode-Football",
-    "source": "FanCode Auto Update"
-  },
-  {
-    "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/4248731_53053_SDD_AAS_fc-web.jpg\" group-title=\"Fancode-Football\", AFC Champions League Elite 2026-27 [English]",
-    "url": "https://in-mc-flive.fancode.com/mumbai/4248731_english_hls_d22cb11ef167319_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793720810~_GO=Generated~acl=/mumbai/4248731_english_hls_d22cb11ef167319_1ta-di_h264/*~SessionID=fc-app_sportsguruand_52a_watcho_77e328e2-5cbd-4f~Signature=AV7HGj7oa7fnNVhhHB6ZY24VEXOTkWHSYqPyHYkLtGkJxoG2s8u9qCU5CxcSxOUC-t5DGQA1qRQAIb3gnvySRPg8pBQE",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/4248731_53053_SDD_AAS_fc-web.jpg",
-    "group": "Fancode-Football",
-    "source": "FanCode Auto Update"
-  },
-  {
-    "name": "tvg-logo=\"https://images.fancode.com/aig/match/v1793599278548/4250628_CASACARDS_APP.png\" group-title=\"Fancode-Football\", LALIGA Hypermotion 2026-27 [English]",
-    "url": "https://in-mc-flive.fancode.com/mumbai/4250628_english_hls_bf509611c745727_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793718381~_GO=Generated~acl=/mumbai/4250628_english_hls_bf509611c745727_1ta-di_h264/*~SessionID=fc-app_sportsguruand_88f_watcho_9a5bd004-d553-4c~Signature=AV7HGj5qas58WL9qs8oLqfkkKJ8QZZ_h5GiRS_xy_KwhA-czYng6BGhvAUzKMAbgXhxVPUBGwQ4WOyjMCb7Fq-aRT7oH",
-    "logo": "https://images.fancode.com/aig/match/v1793599278548/4250628_CASACARDS_APP.png",
-    "group": "Fancode-Football",
-    "source": "FanCode Auto Update"
-  },
-  {
     "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg\" group-title=\"Fancode-Tennis\", ATP Masters - Rolex Paris Masters 2026 [English]",
-    "url": "https://in-mc-flive.fancode.com/mumbai/4250548_english_hls_dc9ffe730c203_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793699611~_GO=Generated~acl=/mumbai/4250548_english_hls_dc9ffe730c203_1ta-di_h264/*~SessionID=fc-app_sportsguruand_1bc_watcho_581b1f87-eb77-4d~Signature=AV7HGj53vYeagH4cBs98LopMIq07SpRtLX8m_plvhWYktBhKEHUH6P3S1VNp2LuIT0FGdFOLS7GZnLf6jDCtjjDwUEwL",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
-    "group": "Fancode-Tennis",
-    "source": "FanCode Auto Update"
-  },
-  {
-    "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg\" group-title=\"Fancode-Tennis\", ATP Masters - Rolex Paris Masters 2026 [English]",
-    "url": "https://in-mc-flive.fancode.com/mumbai/4250549_english_hls_cd610edfc088949_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793699612~_GO=Generated~acl=/mumbai/4250549_english_hls_cd610edfc088949_1ta-di_h264/*~SessionID=fc-app_sportsguruand_d26_watcho_91b1c823-ab5d-43~Signature=AV7HGj5-L0rYvZZ2IZtJ_42Xhx9YJ2jURt378UHhZ7cAQSe0n1BKUd9FGmWysA3U9Gi6hwJKezsHHtUKVoMzbjvIFucB",
+    "url": "https://in-mc-flive.fancode.com/mumbai/4250549_english_hls_cd610edfc088949_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793728688~_GO=Generated~acl=/mumbai/4250549_english_hls_cd610edfc088949_1ta-di_h264/*~SessionID=fc-app_sportsguruand_8a3_watcho_7416d5a9-e1bc-49~Signature=AV7HGj50WBVowFiKt31by1is15f7CFIz1QY5rvlJmVI8XnbI7Hw5NFh7W7K_wMXFQmQjBpieqy3-uMQjxycJnyuhuAYO",
     "logo": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
     "group": "Fancode-Tennis",
     "source": "FanCode Auto Update"
