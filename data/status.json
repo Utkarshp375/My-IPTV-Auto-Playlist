@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-11-06T14:30:05Z",
-  "total_channels": 317,
+  "updated_at_utc": "2026-11-06T20:32:02Z",
+  "total_channels": 315,
   "sources_failed": [
     "All-Playlist (sportlive18): 404 Client Error: Not Found for url: https://raw.githubusercontent.com/sportlive18/All-Playlist/main/combined.m3u"
   ]
