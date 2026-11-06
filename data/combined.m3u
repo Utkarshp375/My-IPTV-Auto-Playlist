@@ -1,5 +1,21 @@
 #EXTM3U
 #PLAYLIST:My IPTV Auto Playlist
+#EXTINF:-1 tvg-name="India vs Nepal - 6 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028334/179382987686754_ACC_MensU19_India_vs_Nepal_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink",India vs Nepal - 6 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793989184~acl=/*~id=80668897274843742224194720025077~hmac=fe2b61302915c8d97c6e691310468421082354f6b0707dc00c2bd162c8e522d6
+#EXTINF:-1 tvg-name="India vs Nepal - 6 Nov 2026 [HIN] - ACC Men's U19 Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028334/179382987686754_ACC_MensU19_India_vs_Nepal_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink",India vs Nepal - 6 Nov 2026 [HIN] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793989184~acl=/*~id=80668897274843742224194720025077~hmac=fe2b61302915c8d97c6e691310468421082354f6b0707dc00c2bd162c8e522d6
+#EXTINF:-1 tvg-name="India vs Nepal - 6 Nov 2026 [TAM] - ACC Men's U19 Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028334/179382987686754_ACC_MensU19_India_vs_Nepal_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink",India vs Nepal - 6 Nov 2026 [TAM] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793989184~acl=/*~id=80668897274843742224194720025077~hmac=fe2b61302915c8d97c6e691310468421082354f6b0707dc00c2bd162c8e522d6
+#EXTINF:-1 tvg-name="India vs Nepal - 6 Nov 2026 [TEL] - ACC Men's U19 Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028334/179382987686754_ACC_MensU19_India_vs_Nepal_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink",India vs Nepal - 6 Nov 2026 [TEL] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793989184~acl=/*~id=80668897274843742224194720025077~hmac=fe2b61302915c8d97c6e691310468421082354f6b0707dc00c2bd162c8e522d6
+#EXTINF:-1 tvg-name="India vs Nepal - 6 Nov 2026 [KAN] - ACC Men's U19 Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028334/179382987686754_ACC_MensU19_India_vs_Nepal_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink",India vs Nepal - 6 Nov 2026 [KAN] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793989184~acl=/*~id=80668897274843742224194720025077~hmac=fe2b61302915c8d97c6e691310468421082354f6b0707dc00c2bd162c8e522d6
+#EXTINF:-1 tvg-name="Pakistan vs UAE - 6 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028380/179387004341970_ACC_MensU19_Pakistan_vs_UAE_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink",Pakistan vs UAE - 6 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793989184~acl=/*~id=80668897274843742224194720025077~hmac=fe2b61302915c8d97c6e691310468421082354f6b0707dc00c2bd162c8e522d6
+#EXTINF:-1 tvg-name="B4U Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/b4u_movies.png" group-title="Movies | Sportlink",B4U Movies
+https://jiotvmblive.cdn.jio.com/bpk-tv/b4u_movies/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="B4U Kadak" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="Movies | Sportlink",B4U Kadak
+https://jiotvmblive.cdn.jio.com/bpk-tv/b4u_kadak/HLSPartner/index.m3u8
 #EXTINF:-1 tvg-name="Sony MAX HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies | Sportlink",Sony MAX HD
 https://sliv.tgaadi.workers.dev/sonymaxhd.m3u8
 #EXTINF:-1 tvg-name="Sony MAX" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Movies | Sportlink",Sony MAX
@@ -10,6 +26,10 @@ https://sliv.tgaadi.workers.dev/max2.m3u8
 https://sliv.tgaadi.workers.dev/sonywah.m3u8
 #EXTINF:-1 tvg-name="Sony PIX HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies | Sportlink",Sony PIX HD
 https://sliv.tgaadi.workers.dev/pixhd.m3u8
+#EXTINF:-1 tvg-name="Gangaur" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gangaur.png" group-title="Entertainment | Sportlink",Gangaur
+https://jiotvmblive.cdn.jio.com/bpk-tv/Gangaur/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Bollywood Masala" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/bollywoodmasala.png" group-title="Entertainment | Sportlink",Bollywood Masala
+https://jiotvmblive.cdn.jio.com/bpk-tv/bollywoodmasala/HLSPartner/index.m3u8
 #EXTINF:-1 tvg-name="SET HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment | Sportlink",SET HD
 https://sliv.tgaadi.workers.dev/sethd.m3u8
 #EXTINF:-1 tvg-name="Sony SAB HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment | Sportlink",Sony SAB HD
@@ -20,6 +40,18 @@ https://sliv.tgaadi.workers.dev/sonymarathi.m3u8
 https://sliv.tgaadi.workers.dev/sonypalsd.m3u8
 #EXTINF:-1 tvg-name="Sony Aath" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment | Sportlink",Sony Aath
 https://sliv.tgaadi.workers.dev/sonyaathsd.m3u8
+#EXTINF:-1 tvg-name="B4U Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="Music | Sportlink",B4U Music
+https://jiotvmblive.cdn.jio.com/bpk-tv/b4u_music/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="9X Jalwa" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9XJalwa.png" group-title="Music | Sportlink",9X Jalwa
+https://jiotvmblive.cdn.jio.com/bpk-tv/9XJalwa/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="9XM" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9xm.png" group-title="Music | Sportlink",9XM
+https://jiotvmblive.cdn.jio.com/bpk-tv/9xm/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="AB Star News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/abstarnews.png" group-title="News | Sportlink",AB Star News
+https://jiotvmblive.cdn.jio.com/bpk-tv/abstarnews/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="IN 24 News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/in24news.png" group-title="News | Sportlink",IN 24 News
+https://jiotvmblive.cdn.jio.com/bpk-tv/in24news/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="TNP News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/tnpnews.png" group-title="News | Sportlink",TNP News
+https://jiotvmblive.cdn.jio.com/bpk-tv/tnpnews/HLSPartner/index.m3u8
 #EXTINF:-1 tvg-name="Sony Sports Ten 1" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sports | Sportlink",Sony Sports Ten 1
 https://sliv.tgaadi.workers.dev/ten1sd.m3u8
 #EXTINF:-1 tvg-name="Sony Sports Ten 2" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="Sports | Sportlink",Sony Sports Ten 2
@@ -40,10 +72,226 @@ https://sliv.tgaadi.workers.dev/ten3hd.m3u8
 https://sliv.tgaadi.workers.dev/ten4hd.m3u8
 #EXTINF:-1 tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports | Sportlink",Sony Sports Ten 5 HD
 https://sliv.tgaadi.workers.dev/sonysixhd.m3u8
+#EXTINF:-1 tvg-name="24Hrs TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/24hourstv.png" group-title="Bengali | Sportlink",24Hrs TV
+https://jiotvmblive.cdn.jio.com/bpk-tv/24hourstv/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Raatdin Bangla" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/raatdinbangla.png" group-title="Bengali | Sportlink",Raatdin Bangla
+https://jiotvmblive.cdn.jio.com/bpk-tv/raatdinbangla/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Vedant Ras Swar Shree" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/swarshreejio.png" group-title="Devotional | Sportlink",Vedant Ras Swar Shree
+https://jiotvmblive.cdn.jio.com/bpk-tv/swarshreejio/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Nimbark TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/nimbarktv.png" group-title="Devotional | Sportlink",Nimbark TV
+https://jiotvmblive.cdn.jio.com/bpk-tv/nimbarktv/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Sanatan TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sanatan.png" group-title="Devotional | Sportlink",Sanatan TV
+https://jiotvmblive.cdn.jio.com/bpk-tv/sanatan/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Adhyatma TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/adhyatmatv.png" group-title="Devotional | Sportlink",Adhyatma TV
+https://jiotvmblive.cdn.jio.com/bpk-tv/adhyatmatv/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Shiksha TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/shikshatvhd.png" group-title="Gujarati | Sportlink",Shiksha TV
+https://jiotvmblive.cdn.jio.com/bpk-tv/shikshatvhd/HLSPartner/index.m3u8
 #EXTINF:-1 tvg-name="Sony BBC Earth HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment | Sportlink",Sony BBC Earth HD
 https://sliv.tgaadi.workers.dev/sonybbcearthhd.m3u8
 #EXTINF:-1 tvg-name="Sony Yay" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids | Sportlink",Sony Yay
 https://sliv.tgaadi.workers.dev/sonyyaysd.m3u8
+#EXTINF:-1 tvg-name="9x Jhakaas" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9xjhakaas.png" group-title="Marathi | Sportlink",9x Jhakaas
+https://jiotvmblive.cdn.jio.com/bpk-tv/9xjhakaas/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Top News Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/topnewsmarathi.png" group-title="Marathi | Sportlink",Top News Marathi
+https://jiotvmblive.cdn.jio.com/bpk-tv/topnewsmarathi/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="9X Tashan" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9xTashan.png" group-title="Punjabi | Sportlink",9X Tashan
+https://jiotvmblive.cdn.jio.com/bpk-tv/9xTashan/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Live Samachar Bharat" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/livesamacharbharat.png" group-title="Punjabi | Sportlink",Live Samachar Bharat
+https://jiotvmblive.cdn.jio.com/bpk-tv/livesamacharbharat/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Garv Punjabi Gurbani" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/garvgurbani.png" group-title="Punjabi | Sportlink",Garv Punjabi Gurbani
+https://jiotvmblive.cdn.jio.com/bpk-tv/garvgurbani/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Global Punjab" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Global_Punjab.png" group-title="Punjabi | Sportlink",Global Punjab
+https://jiotvmblive.cdn.jio.com/bpk-tv/globalpunjab/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Sikh Ratnavali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sikh_Ratnavali.png" group-title="Punjabi | Sportlink",Sikh Ratnavali
+https://jiotvmblive.cdn.jio.com/bpk-tv/SikhRatnavali/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Headlines Tripura" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Headlines_Tripura.png" group-title="Unknown | Sportlink",Headlines Tripura
+https://jiotvmblive.cdn.jio.com/bpk-tv/headlinestripura/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="CNBC TV18." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_TV18_NW18.png" group-title="Unknown | Sportlink",CNBC TV18.
+https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="CNBC Awaaz." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz_NW18.png" group-title="Unknown | Sportlink",CNBC Awaaz.
+https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="CNBC Bazaar." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Bajar_NW18.png" group-title="Unknown | Sportlink",CNBC Bazaar.
+https://nw18live.cdn.jio.com/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="CNN News18." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_News18_NW18.png" group-title="Unknown | Sportlink",CNN News18.
+https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="News18 India." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_India_NW18.png" group-title="Unknown | Sportlink",News18 India.
+https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="News18 Urdu." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Urdu_NW18.png" group-title="Unknown | Sportlink",News18 Urdu.
+https://nw18live.cdn.jio.com/bpk-tv/News18_Urdu_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="News18 Punjab Haryana HP." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Punjab_Haryana_HP_NW18.png" group-title="Unknown | Sportlink",News18 Punjab Haryana HP.
+https://nw18live.cdn.jio.com/bpk-tv/News18_Punjab_Haryana_HP_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="News18 MP Chhattisgarh." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_MP_Chhattisgarh_NW18.png" group-title="Unknown | Sportlink",News18 MP Chhattisgarh.
+https://nw18live.cdn.jio.com/bpk-tv/News18_MP_Chhattisgarh_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="News18 UP Uttarakhand." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_UP_Uttarakhand_NW18.png" group-title="Unknown | Sportlink",News18 UP Uttarakhand.
+https://nw18live.cdn.jio.com/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="News18 Bihar Jharkhand." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Bihar_Jharkhand_NW18.png" group-title="Unknown | Sportlink",News18 Bihar Jharkhand.
+https://nw18live.cdn.jio.com/bpk-tv/News18_Bihar_Jharkhand_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="News18 Rajasthan." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Rajasthan_NW18.png" group-title="Unknown | Sportlink",News18 Rajasthan.
+https://nw18live.cdn.jio.com/bpk-tv/News18_Rajasthan_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="News18 Lokmat." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Lokmat_NW18.png" group-title="Unknown | Sportlink",News18 Lokmat.
+https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="News18 Bangla." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Bangla_NW18.png" group-title="Unknown | Sportlink",News18 Bangla.
+https://nw18live.cdn.jio.com/bpk-tv/News18_Bangla_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="News18 Gujarati." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Gujarati_NW18.png" group-title="Unknown | Sportlink",News18 Gujarati.
+https://nw18live.cdn.jio.com/bpk-tv/News18_Gujarati_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="News18 Kannada." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Kannada_NW18.png" group-title="Unknown | Sportlink",News18 Kannada.
+https://nw18live.cdn.jio.com/bpk-tv/News18_Kannada_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="News18 Odia." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Odia_NW18.png" group-title="Unknown | Sportlink",News18 Odia.
+https://nw18live.cdn.jio.com/bpk-tv/News18_Odia_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="News18 Tamil Nadu." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Tamil_Nadu_NW18.png" group-title="Unknown | Sportlink",News18 Tamil Nadu.
+https://nw18live.cdn.jio.com/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="News18 Kerala." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Kerala_NW18.png" group-title="Unknown | Sportlink",News18 Kerala.
+https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="News18 Assam North East." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Assam_North_East_NW18.png" group-title="Unknown | Sportlink",News18 Assam North East.
+https://nw18live.cdn.jio.com/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="History HD NW18" tvg-logo="" group-title="Unknown | Sportlink",History HD NW18
+https://nw18live.cdn.jio.com/bpk-tv/History_HD_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="CNBC Tv18 Prime HD NW18" tvg-logo="" group-title="Unknown | Sportlink",CNBC Tv18 Prime HD NW18
+https://nw18live.cdn.jio.com/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="History TV18 Hindi NW18" tvg-logo="" group-title="Unknown | Sportlink",History TV18 Hindi NW18
+https://nw18live.cdn.jio.com/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="Firstpost NW18" tvg-logo="" group-title="Unknown | Sportlink",Firstpost NW18
+https://nw18live.cdn.jio.com/bpk-tv/Firstpost_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="Shemaroo Filmy Gaane" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/smrfgn.png" group-title="Unknown | Sportlink",Shemaroo Filmy Gaane
+https://jiotvmblive.cdn.jio.com/bpk-tv/smrfgn/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Shemaroo Bollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/smrbol.png" group-title="Unknown | Sportlink",Shemaroo Bollywood
+https://jiotvmblive.cdn.jio.com/bpk-tv/smrbol/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="KBC News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/kbcnews.png" group-title="Unknown | Sportlink",KBC News
+https://jiotvmblive.cdn.jio.com/bpk-tv/kbcnews/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="News18 JKLH NW18" tvg-logo="" group-title="Unknown | Sportlink",News18 JKLH NW18
+https://nw18live.cdn.jio.com/bpk-tv/News18_JKLH_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="Bhakthi Siri" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/bhakhtisiri.png" group-title="Unknown | Sportlink",Bhakthi Siri
+https://jiotvmblive.cdn.jio.com/bpk-tv/bhakthisiri/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="News Marathi 24x7" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/newsmarathi.png" group-title="Unknown | Sportlink",News Marathi 24x7
+https://jiotvmblive.cdn.jio.com/bpk-tv/newsmarathi/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Sana TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sanatv.png" group-title="Unknown | Sportlink",Sana TV
+https://jiotvmblive.cdn.jio.com/bpk-tv/sanatv/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="News18 International NW18" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_International_NW18.png" group-title="Unknown | Sportlink",News18 International NW18
+https://nw18live.cdn.jio.com/bpk-tv/News18_International_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="The Unmute" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/unmute.png" group-title="Unknown | Sportlink",The Unmute
+https://jiotvmblive.cdn.jio.com/bpk-tv/unmute/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Pocket Films" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/p_pktflm.png" group-title="Unknown | Sportlink",Pocket Films
+https://jiotvmblive.cdn.jio.com/bpk-tv/p_pktflm/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Mahua Khabar" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/mahuakhabar.png" group-title="Unknown | Sportlink",Mahua Khabar
+https://jiotvmblive.cdn.jio.com/bpk-tv/mahuakhabar/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Stingray Naturescape" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/naturescape-a003s-dhaka.png" group-title="Unknown | Sportlink",Stingray Naturescape
+https://jiotvmblive.cdn.jio.com/bpk-tv/naturescape-a003s-dhaka/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="ZenLIFE by Stingray" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/zenlife-zen001-seoul.png" group-title="Unknown | Sportlink",ZenLIFE by Stingray
+https://jiotvmblive.cdn.jio.com/bpk-tv/zenlife-zen001-seoul/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Holidaycapes by Stingray" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/holidayscapes.png" group-title="Unknown | Sportlink",Holidaycapes by Stingray
+https://jiotvmblive.cdn.jio.com/bpk-tv/holidayscapes/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Movie Music by Stingray" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/cmusic-cme004-dhaka.png" group-title="Unknown | Sportlink",Movie Music by Stingray
+https://jiotvmblive.cdn.jio.com/bpk-tv/cmusic-cme004-dhaka/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Qello Concerts by Stingray" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/qello-qello001-dhaka.png" group-title="Unknown | Sportlink",Qello Concerts by Stingray
+https://jiotvmblive.cdn.jio.com/bpk-tv/qello-qello001-dhaka/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Stingray Djazz" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/djazz-djaads-dhaka.png" group-title="Unknown | Sportlink",Stingray Djazz
+https://jiotvmblive.cdn.jio.com/bpk-tv/djazz-djaads-dhaka/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="T SAT Nipuna" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/tsatnipuna.png" group-title="Unknown | Sportlink",T SAT Nipuna
+https://jiotvmblive.cdn.jio.com/bpk-tv/tsatnipuna/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="T SAT Vidya" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/tsatvidya.png" group-title="Unknown | Sportlink",T SAT Vidya
+https://jiotvmblive.cdn.jio.com/bpk-tv/tsatvidya/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Zillar Barta" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/zillarbarta.png" group-title="Unknown | Sportlink",Zillar Barta
+https://jiotvmblive.cdn.jio.com/bpk-tv/zillarbarta/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="ZB Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/zbmusic.png" group-title="Unknown | Sportlink",ZB Music
+https://jiotvmblive.cdn.jio.com/bpk-tv/zbmusic/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="ZB Bhakti" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/zbbhakti.png" group-title="Unknown | Sportlink",ZB Bhakti
+https://jiotvmblive.cdn.jio.com/bpk-tv/zbbhakti/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="ZB Cartoon" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/zbcatun.png" group-title="Unknown | Sportlink",ZB Cartoon
+https://jiotvmblive.cdn.jio.com/bpk-tv/zbcatun/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="ZB Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZBCINEMA.png" group-title="Unknown | Sportlink",ZB Cinema
+https://jiotvmblive.cdn.jio.com/bpk-tv/ZBCINEMA/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Stingray The Spa" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ose-122ads-montreal.png" group-title="Unknown | Sportlink",Stingray The Spa
+https://jiotvmblive.cdn.jio.com/bpk-tv/ose-122ads-montreal/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Stingray Todays K-Pop" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ose-317ads-montreal.png" group-title="Unknown | Sportlink",Stingray Todays K-Pop
+https://jiotvmblive.cdn.jio.com/bpk-tv/ose-317ads-montreal/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Stingray Easy Listening" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ose-137ads-montreal.png" group-title="Unknown | Sportlink",Stingray Easy Listening
+https://jiotvmblive.cdn.jio.com/bpk-tv/ose-137ads-montreal/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Stingray 2000s" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ose-232ads-montreal.png" group-title="Unknown | Sportlink",Stingray 2000s
+https://jiotvmblive.cdn.jio.com/bpk-tv/ose-232ads-montreal/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Aagaaz Times" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/aagaaztimes.png" group-title="Unknown | Sportlink",Aagaaz Times
+https://jiotvmblive.cdn.jio.com/bpk-tv/aagaaztimes/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Mirror Media" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mirror_Media.png" group-title="Unknown | Sportlink",Mirror Media
+https://jiotvmblive.cdn.jio.com/bpk-tv/mirrormedia/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="STV Bangla" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sailendar.png" group-title="Unknown | Sportlink",STV Bangla
+https://jiotvmblive.cdn.jio.com/bpk-tv/sailendar/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="NH BollyFlix" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/blyflx.png" group-title="Unknown | Sportlink",NH BollyFlix
+https://jiotvmblive.cdn.jio.com/bpk-tv/blyflx/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="NH BollyGold" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/blygld.png" group-title="Unknown | Sportlink",NH BollyGold
+https://jiotvmblive.cdn.jio.com/bpk-tv/blygld/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="NH BollyRaga" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/blyrag.png" group-title="Unknown | Sportlink",NH BollyRaga
+https://jiotvmblive.cdn.jio.com/bpk-tv/blyrag/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Superfine Films" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/p_supjio.png" group-title="Unknown | Sportlink",Superfine Films
+https://jiotvmblive.cdn.jio.com/bpk-tv/p_supjio/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Yahoo Finance" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Yahoo_Finance.png" group-title="Unknown | Sportlink",Yahoo Finance
+https://jiotvmblive.cdn.jio.com/bpk-tv/Yahoo_Finance/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Janataa TV Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/janataanews.png" group-title="Unknown | Sportlink",Janataa TV Kannada
+https://jiotvmblive.cdn.jio.com/bpk-tv/janataanews/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Rock TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/suriyantvtamil.png" group-title="Unknown | Sportlink",Rock TV
+https://jiotvmblive.cdn.jio.com/bpk-tv/suriyantvtamil/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Dharsan TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/dharshantvtamil.png" group-title="Unknown | Sportlink",Dharsan TV
+https://jiotvmblive.cdn.jio.com/bpk-tv/dharshantvtamil/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Bhagyam TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/aanadhamtvtamil.png" group-title="Unknown | Sportlink",Bhagyam TV
+https://jiotvmblive.cdn.jio.com/bpk-tv/aanadhamtvtamil/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Sana Plus" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sanaplus.png" group-title="Unknown | Sportlink",Sana Plus
+https://jiotvmblive.cdn.jio.com/bpk-tv/sanaplus/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Subin TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/subintvtamil.png" group-title="Unknown | Sportlink",Subin TV
+https://jiotvmblive.cdn.jio.com/bpk-tv/subintvtamil/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="P18 News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/p18news.png" group-title="Unknown | Sportlink",P18 News
+https://jiotvmblive.cdn.jio.com/bpk-tv/p18news/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="INWILD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Inwild.png" group-title="Unknown | Sportlink",INWILD
+https://jiotvmblive.cdn.jio.com/bpk-tv/Inwild/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="INTRAVEL" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Intravel.png" group-title="Unknown | Sportlink",INTRAVEL
+https://jiotvmblive.cdn.jio.com/bpk-tv/Intravel/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="NTC TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ntvtamil.png" group-title="Unknown | Sportlink",NTC TV
+https://jiotvmblive.cdn.jio.com/bpk-tv/ntvtamil/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Suriya TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/suryatvtamil.png" group-title="Unknown | Sportlink",Suriya TV
+https://jiotvmblive.cdn.jio.com/bpk-tv/suryatvtamil/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Aaryaa TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/aryatvtamil.png" group-title="Unknown | Sportlink",Aaryaa TV
+https://jiotvmblive.cdn.jio.com/bpk-tv/aryatvtamil/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Ultimate TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/utvtamil.png" group-title="Unknown | Sportlink",Ultimate TV
+https://jiotvmblive.cdn.jio.com/bpk-tv/utvtamil/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Swastik Stories" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swastik_Stories.png" group-title="Unknown | Sportlink",Swastik Stories
+https://jiotvmblive.cdn.jio.com/bpk-tv/Swastik_Stories/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Metro TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/metrotv.png" group-title="Unknown | Sportlink",Metro TV
+https://jiotvmblive.cdn.jio.com/bpk-tv/metrotv/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Roja TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/rojatv.png" group-title="Unknown | Sportlink",Roja TV
+https://jiotvmblive.cdn.jio.com/bpk-tv/rojatv/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Roja Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/rojamovies.png" group-title="Unknown | Sportlink",Roja Movies
+https://jiotvmblive.cdn.jio.com/bpk-tv/rojamovies/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Nation News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/nationnews.png" group-title="Unknown | Sportlink",Nation News
+https://jiotvmblive.cdn.jio.com/bpk-tv/nationnews/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="TOI Global" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/npnhm84gz9.png" group-title="Unknown | Sportlink",TOI Global
+https://jiotvmblive.cdn.jio.com/bpk-tv/npnhm84gz9/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Raatdin Tripura" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/raatdintripura.png" group-title="Unknown | Sportlink",Raatdin Tripura
+https://jiotvmblive.cdn.jio.com/bpk-tv/raatdintripura/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Swastik TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/swastiktv.png" group-title="Unknown | Sportlink",Swastik TV
+https://jiotvmblive.cdn.jio.com/bpk-tv/swastiktv/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Green Gold TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/greengold.png" group-title="Unknown | Sportlink",Green Gold TV
+https://jiotvmblive.cdn.jio.com/bpk-tv/greengold/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="NSC9 News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/nsc9.png" group-title="Unknown | Sportlink",NSC9 News
+https://jiotvmblive.cdn.jio.com/bpk-tv/nsc9/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Stingray Classic Rock" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ose-101ads-montreal.png" group-title="Unknown | Sportlink",Stingray Classic Rock
+https://jiotvmblive.cdn.jio.com/bpk-tv/ose-101ads-montreal/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Stingray Greatest Hits" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ose-155ads-montreal.png" group-title="Unknown | Sportlink",Stingray Greatest Hits
+https://jiotvmblive.cdn.jio.com/bpk-tv/ose-155ads-montreal/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Stingray Cozy Cafe" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/cozycafe-400ads_cafe001-tokyo.png" group-title="Unknown | Sportlink",Stingray Cozy Cafe
+https://jiotvmblive.cdn.jio.com/bpk-tv/cozycafe-400ads_cafe001-tokyo/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Amar Ujala" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/amarujala.png" group-title="Unknown | Sportlink",Amar Ujala
+https://jiotvmblive.cdn.jio.com/bpk-tv/amarujala/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="AlrightTV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/alrght.png" group-title="Unknown | Sportlink",AlrightTV
+https://jiotvmblive.cdn.jio.com/bpk-tv/alrght/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Kadak NW18" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kadak_NW18.png" group-title="Unknown | Sportlink",Kadak NW18
+https://nw18live.cdn.jio.com/bpk-tv/Kadak_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="R Maxx Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/rmaxx.png" group-title="Unknown | Sportlink",R Maxx Kannada
+https://jiotvmblive.cdn.jio.com/bpk-tv/rmaxx/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Cine Jomjomat" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cine_Jomjomat.png" group-title="Unknown | Sportlink",Cine Jomjomat
+https://jiotvmblive.cdn.jio.com/bpk-tv/Cine_Jomjomat/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="Journy" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/amg02159c11.png" group-title="Unknown | Sportlink",Journy
+https://jiotvmblive.cdn.jio.com/bpk-tv/amg02159c11/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="4 SiDES TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/4sites.png" group-title="Unknown | Sportlink",4 SiDES TV
+https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="ANN News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/annnewssrt.png" group-title="Urdu | Sportlink",ANN News
+https://jiotvmblive.cdn.jio.com/bpk-tv/annnews/HLSPartner/index.m3u8
 #EXTINF:-1 tvg-name="h_396,c_scale,f_webp,q_auto:eco/resources/0-9-channel_1643519345/list/1920x1080listclean721faf534a79451fa714b25d2102de48.png' group-title='Zee5 | Sportlink',Zing USA" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-channel_1643519345/list/1920x1080listclean721faf534a79451fa714b25d2102de48.png" group-title="Zee5 | Sportlink",h_396,c_scale,f_webp,q_auto:eco/resources/0-9-channel_1643519345/list/1920x1080listclean721faf534a79451fa714b25d2102de48.png' group-title='Zee5 | Sportlink',Zing USA
 https://premiumplugx.me/jee/zee5.php/0-9-channel_1643519345.m3u8
 #EXTINF:-1 tvg-name="h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zing/list/1920x1080list47035ca213b8483fb3985b221724ae7b.png' group-title='Zee5 | Sportlink',Zing" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zing/list/1920x1080list47035ca213b8483fb3985b221724ae7b.png" group-title="Zee5 | Sportlink",h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zing/list/1920x1080list47035ca213b8483fb3985b221724ae7b.png' group-title='Zee5 | Sportlink',Zing
@@ -284,242 +532,18 @@ https://premiumplugx.me/jee/zee5.php/0-9-pictures.m3u8
 https://in-mc-flive.fancode.com/mumbai/4250559_english_hls_cc6d0bad3541603_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793958336~_GO=Generated~acl=/mumbai/4250559_english_hls_cc6d0bad3541603_1ta-di_h264/*~SessionID=7814838588_watcho_14eda7e2-c2ca-42~Signature=AV7HGj5PlAK2ltq_nI6oXwfFCmCISuzem_lDXIjH0UtJ3jYnwB4eJvFcBmd5jIWNFgkmPZJn7QIZQIk957DyV_cASDsO
 #EXTINF:-1 tvg-name="tvg-logo='https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg' group-title='Fancode-Tennis', ATP Masters - Rolex Paris Masters 2026 [English]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" group-title="Fancode-Tennis",tvg-logo='https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg' group-title='Fancode-Tennis', ATP Masters - Rolex Paris Masters 2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4250560_english_hls_bfc9da6b9213120_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793958337~_GO=Generated~acl=/mumbai/4250560_english_hls_bfc9da6b9213120_1ta-di_h264/*~SessionID=7814838588_watcho_f97cd118-dd94-4e~Signature=AV7HGj5hOwLW6e6r_wRsJD0XYNIjPthIjo6PfRYSQcVOjWRsZhjVrN2w81QsZEh43epjCTOYJ08hTKLA1PioTTGw7JAN
-#EXTINF:-1 tvg-name="B4U Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/b4u_movies.png" group-title="Movies",B4U Movies
-https://jiotvmblive.cdn.jio.com/bpk-tv/b4u_movies/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="B4U Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="Music",B4U Music
-https://jiotvmblive.cdn.jio.com/bpk-tv/b4u_music/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="9X Jalwa" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9XJalwa.png" group-title="Music",9X Jalwa
-https://jiotvmblive.cdn.jio.com/bpk-tv/9XJalwa/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="9x Jhakaas" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9xjhakaas.png" group-title="Marathi",9x Jhakaas
-https://jiotvmblive.cdn.jio.com/bpk-tv/9xjhakaas/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="9XM" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9xm.png" group-title="Music",9XM
-https://jiotvmblive.cdn.jio.com/bpk-tv/9xm/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="9X Tashan" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9xTashan.png" group-title="Punjabi",9X Tashan
-https://jiotvmblive.cdn.jio.com/bpk-tv/9xTashan/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Vedant Ras Swar Shree" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/swarshreejio.png" group-title="Devotional",Vedant Ras Swar Shree
-https://jiotvmblive.cdn.jio.com/bpk-tv/swarshreejio/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Live Samachar Bharat" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/livesamacharbharat.png" group-title="Punjabi",Live Samachar Bharat
-https://jiotvmblive.cdn.jio.com/bpk-tv/livesamacharbharat/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Garv Punjabi Gurbani" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/garvgurbani.png" group-title="Punjabi",Garv Punjabi Gurbani
-https://jiotvmblive.cdn.jio.com/bpk-tv/garvgurbani/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Nimbark TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/nimbarktv.png" group-title="Devotional",Nimbark TV
-https://jiotvmblive.cdn.jio.com/bpk-tv/nimbarktv/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Headlines Tripura" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Headlines_Tripura.png" group-title="Unknown",Headlines Tripura
-https://jiotvmblive.cdn.jio.com/bpk-tv/headlinestripura/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="B4U Kadak" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="Movies",B4U Kadak
-https://jiotvmblive.cdn.jio.com/bpk-tv/b4u_kadak/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Shiksha TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/shikshatvhd.png" group-title="Gujarati",Shiksha TV
-https://jiotvmblive.cdn.jio.com/bpk-tv/shikshatvhd/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="CNBC TV18." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_TV18_NW18.png" group-title="Unknown",CNBC TV18.
-https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-name="CNBC Awaaz." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz_NW18.png" group-title="Unknown",CNBC Awaaz.
-https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-name="CNBC Bazaar." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Bajar_NW18.png" group-title="Unknown",CNBC Bazaar.
-https://nw18live.cdn.jio.com/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-name="CNN News18." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_News18_NW18.png" group-title="Unknown",CNN News18.
-https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-name="News18 India." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_India_NW18.png" group-title="Unknown",News18 India.
-https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-name="News18 Urdu." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Urdu_NW18.png" group-title="Unknown",News18 Urdu.
-https://nw18live.cdn.jio.com/bpk-tv/News18_Urdu_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-name="News18 Punjab Haryana HP." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Punjab_Haryana_HP_NW18.png" group-title="Unknown",News18 Punjab Haryana HP.
-https://nw18live.cdn.jio.com/bpk-tv/News18_Punjab_Haryana_HP_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-name="News18 MP Chhattisgarh." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_MP_Chhattisgarh_NW18.png" group-title="Unknown",News18 MP Chhattisgarh.
-https://nw18live.cdn.jio.com/bpk-tv/News18_MP_Chhattisgarh_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-name="News18 UP Uttarakhand." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_UP_Uttarakhand_NW18.png" group-title="Unknown",News18 UP Uttarakhand.
-https://nw18live.cdn.jio.com/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-name="News18 Bihar Jharkhand." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Bihar_Jharkhand_NW18.png" group-title="Unknown",News18 Bihar Jharkhand.
-https://nw18live.cdn.jio.com/bpk-tv/News18_Bihar_Jharkhand_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-name="News18 Rajasthan." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Rajasthan_NW18.png" group-title="Unknown",News18 Rajasthan.
-https://nw18live.cdn.jio.com/bpk-tv/News18_Rajasthan_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-name="News18 Lokmat." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Lokmat_NW18.png" group-title="Unknown",News18 Lokmat.
-https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-name="News18 Bangla." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Bangla_NW18.png" group-title="Unknown",News18 Bangla.
-https://nw18live.cdn.jio.com/bpk-tv/News18_Bangla_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-name="News18 Gujarati." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Gujarati_NW18.png" group-title="Unknown",News18 Gujarati.
-https://nw18live.cdn.jio.com/bpk-tv/News18_Gujarati_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-name="News18 Kannada." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Kannada_NW18.png" group-title="Unknown",News18 Kannada.
-https://nw18live.cdn.jio.com/bpk-tv/News18_Kannada_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-name="News18 Odia." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Odia_NW18.png" group-title="Unknown",News18 Odia.
-https://nw18live.cdn.jio.com/bpk-tv/News18_Odia_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-name="News18 Tamil Nadu." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Tamil_Nadu_NW18.png" group-title="Unknown",News18 Tamil Nadu.
-https://nw18live.cdn.jio.com/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-name="News18 Kerala." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Kerala_NW18.png" group-title="Unknown",News18 Kerala.
-https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-name="News18 Assam North East." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Assam_North_East_NW18.png" group-title="Unknown",News18 Assam North East.
-https://nw18live.cdn.jio.com/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-name="AB Star News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/abstarnews.png" group-title="News",AB Star News
-https://jiotvmblive.cdn.jio.com/bpk-tv/abstarnews/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Sanatan TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sanatan.png" group-title="Devotional",Sanatan TV
-https://jiotvmblive.cdn.jio.com/bpk-tv/sanatan/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="ANN News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/annnewssrt.png" group-title="Urdu",ANN News
-https://jiotvmblive.cdn.jio.com/bpk-tv/annnews/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="24Hrs TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/24hourstv.png" group-title="Bengali",24Hrs TV
-https://jiotvmblive.cdn.jio.com/bpk-tv/24hourstv/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Adhyatma TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/adhyatmatv.png" group-title="Devotional",Adhyatma TV
-https://jiotvmblive.cdn.jio.com/bpk-tv/adhyatmatv/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Top News Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/topnewsmarathi.png" group-title="Marathi",Top News Marathi
-https://jiotvmblive.cdn.jio.com/bpk-tv/topnewsmarathi/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="IN 24 News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/in24news.png" group-title="News",IN 24 News
-https://jiotvmblive.cdn.jio.com/bpk-tv/in24news/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Global Punjab" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Global_Punjab.png" group-title="Punjabi",Global Punjab
-https://jiotvmblive.cdn.jio.com/bpk-tv/globalpunjab/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Raatdin Bangla" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/raatdinbangla.png" group-title="Bengali",Raatdin Bangla
-https://jiotvmblive.cdn.jio.com/bpk-tv/raatdinbangla/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Gangaur" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gangaur.png" group-title="Entertainment",Gangaur
-https://jiotvmblive.cdn.jio.com/bpk-tv/Gangaur/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="History HD NW18" tvg-logo="" group-title="Unknown",History HD NW18
-https://nw18live.cdn.jio.com/bpk-tv/History_HD_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-name="CNBC Tv18 Prime HD NW18" tvg-logo="" group-title="Unknown",CNBC Tv18 Prime HD NW18
-https://nw18live.cdn.jio.com/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-name="Sikh Ratnavali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sikh_Ratnavali.png" group-title="Punjabi",Sikh Ratnavali
-https://jiotvmblive.cdn.jio.com/bpk-tv/SikhRatnavali/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="History TV18 Hindi NW18" tvg-logo="" group-title="Unknown",History TV18 Hindi NW18
-https://nw18live.cdn.jio.com/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-name="Firstpost NW18" tvg-logo="" group-title="Unknown",Firstpost NW18
-https://nw18live.cdn.jio.com/bpk-tv/Firstpost_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-name="Bollywood Masala" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/bollywoodmasala.png" group-title="Entertainment",Bollywood Masala
-https://jiotvmblive.cdn.jio.com/bpk-tv/bollywoodmasala/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="TNP News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/tnpnews.png" group-title="News",TNP News
-https://jiotvmblive.cdn.jio.com/bpk-tv/tnpnews/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Shemaroo Filmy Gaane" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/smrfgn.png" group-title="Unknown",Shemaroo Filmy Gaane
-https://jiotvmblive.cdn.jio.com/bpk-tv/smrfgn/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Shemaroo Bollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/smrbol.png" group-title="Unknown",Shemaroo Bollywood
-https://jiotvmblive.cdn.jio.com/bpk-tv/smrbol/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="KBC News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/kbcnews.png" group-title="Unknown",KBC News
-https://jiotvmblive.cdn.jio.com/bpk-tv/kbcnews/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="News18 JKLH NW18" tvg-logo="" group-title="Unknown",News18 JKLH NW18
-https://nw18live.cdn.jio.com/bpk-tv/News18_JKLH_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-name="Bhakthi Siri" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/bhakhtisiri.png" group-title="Unknown",Bhakthi Siri
-https://jiotvmblive.cdn.jio.com/bpk-tv/bhakthisiri/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="News Marathi 24x7" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/newsmarathi.png" group-title="Unknown",News Marathi 24x7
-https://jiotvmblive.cdn.jio.com/bpk-tv/newsmarathi/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Sana TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sanatv.png" group-title="Unknown",Sana TV
-https://jiotvmblive.cdn.jio.com/bpk-tv/sanatv/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="News18 International NW18" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18_International_NW18.png" group-title="Unknown",News18 International NW18
-https://nw18live.cdn.jio.com/bpk-tv/News18_International_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-name="The Unmute" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/unmute.png" group-title="Unknown",The Unmute
-https://jiotvmblive.cdn.jio.com/bpk-tv/unmute/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Pocket Films" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/p_pktflm.png" group-title="Unknown",Pocket Films
-https://jiotvmblive.cdn.jio.com/bpk-tv/p_pktflm/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Mahua Khabar" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/mahuakhabar.png" group-title="Unknown",Mahua Khabar
-https://jiotvmblive.cdn.jio.com/bpk-tv/mahuakhabar/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Stingray Naturescape" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/naturescape-a003s-dhaka.png" group-title="Unknown",Stingray Naturescape
-https://jiotvmblive.cdn.jio.com/bpk-tv/naturescape-a003s-dhaka/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="ZenLIFE by Stingray" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/zenlife-zen001-seoul.png" group-title="Unknown",ZenLIFE by Stingray
-https://jiotvmblive.cdn.jio.com/bpk-tv/zenlife-zen001-seoul/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Holidaycapes by Stingray" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/holidayscapes.png" group-title="Unknown",Holidaycapes by Stingray
-https://jiotvmblive.cdn.jio.com/bpk-tv/holidayscapes/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Movie Music by Stingray" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/cmusic-cme004-dhaka.png" group-title="Unknown",Movie Music by Stingray
-https://jiotvmblive.cdn.jio.com/bpk-tv/cmusic-cme004-dhaka/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Qello Concerts by Stingray" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/qello-qello001-dhaka.png" group-title="Unknown",Qello Concerts by Stingray
-https://jiotvmblive.cdn.jio.com/bpk-tv/qello-qello001-dhaka/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Stingray Djazz" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/djazz-djaads-dhaka.png" group-title="Unknown",Stingray Djazz
-https://jiotvmblive.cdn.jio.com/bpk-tv/djazz-djaads-dhaka/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="T SAT Nipuna" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/tsatnipuna.png" group-title="Unknown",T SAT Nipuna
-https://jiotvmblive.cdn.jio.com/bpk-tv/tsatnipuna/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="T SAT Vidya" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/tsatvidya.png" group-title="Unknown",T SAT Vidya
-https://jiotvmblive.cdn.jio.com/bpk-tv/tsatvidya/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Zillar Barta" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/zillarbarta.png" group-title="Unknown",Zillar Barta
-https://jiotvmblive.cdn.jio.com/bpk-tv/zillarbarta/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="ZB Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/zbmusic.png" group-title="Unknown",ZB Music
-https://jiotvmblive.cdn.jio.com/bpk-tv/zbmusic/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="ZB Bhakti" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/zbbhakti.png" group-title="Unknown",ZB Bhakti
-https://jiotvmblive.cdn.jio.com/bpk-tv/zbbhakti/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="ZB Cartoon" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/zbcatun.png" group-title="Unknown",ZB Cartoon
-https://jiotvmblive.cdn.jio.com/bpk-tv/zbcatun/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="ZB Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZBCINEMA.png" group-title="Unknown",ZB Cinema
-https://jiotvmblive.cdn.jio.com/bpk-tv/ZBCINEMA/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Stingray The Spa" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ose-122ads-montreal.png" group-title="Unknown",Stingray The Spa
-https://jiotvmblive.cdn.jio.com/bpk-tv/ose-122ads-montreal/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Stingray Todays K-Pop" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ose-317ads-montreal.png" group-title="Unknown",Stingray Todays K-Pop
-https://jiotvmblive.cdn.jio.com/bpk-tv/ose-317ads-montreal/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Stingray Easy Listening" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ose-137ads-montreal.png" group-title="Unknown",Stingray Easy Listening
-https://jiotvmblive.cdn.jio.com/bpk-tv/ose-137ads-montreal/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Stingray 2000s" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ose-232ads-montreal.png" group-title="Unknown",Stingray 2000s
-https://jiotvmblive.cdn.jio.com/bpk-tv/ose-232ads-montreal/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Aagaaz Times" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/aagaaztimes.png" group-title="Unknown",Aagaaz Times
-https://jiotvmblive.cdn.jio.com/bpk-tv/aagaaztimes/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Mirror Media" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mirror_Media.png" group-title="Unknown",Mirror Media
-https://jiotvmblive.cdn.jio.com/bpk-tv/mirrormedia/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="STV Bangla" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sailendar.png" group-title="Unknown",STV Bangla
-https://jiotvmblive.cdn.jio.com/bpk-tv/sailendar/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="NH BollyFlix" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/blyflx.png" group-title="Unknown",NH BollyFlix
-https://jiotvmblive.cdn.jio.com/bpk-tv/blyflx/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="NH BollyGold" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/blygld.png" group-title="Unknown",NH BollyGold
-https://jiotvmblive.cdn.jio.com/bpk-tv/blygld/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="NH BollyRaga" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/blyrag.png" group-title="Unknown",NH BollyRaga
-https://jiotvmblive.cdn.jio.com/bpk-tv/blyrag/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Superfine Films" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/p_supjio.png" group-title="Unknown",Superfine Films
-https://jiotvmblive.cdn.jio.com/bpk-tv/p_supjio/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Yahoo Finance" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Yahoo_Finance.png" group-title="Unknown",Yahoo Finance
-https://jiotvmblive.cdn.jio.com/bpk-tv/Yahoo_Finance/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Janataa TV Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/janataanews.png" group-title="Unknown",Janataa TV Kannada
-https://jiotvmblive.cdn.jio.com/bpk-tv/janataanews/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Rock TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/suriyantvtamil.png" group-title="Unknown",Rock TV
-https://jiotvmblive.cdn.jio.com/bpk-tv/suriyantvtamil/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Dharsan TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/dharshantvtamil.png" group-title="Unknown",Dharsan TV
-https://jiotvmblive.cdn.jio.com/bpk-tv/dharshantvtamil/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Bhagyam TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/aanadhamtvtamil.png" group-title="Unknown",Bhagyam TV
-https://jiotvmblive.cdn.jio.com/bpk-tv/aanadhamtvtamil/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Sana Plus" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sanaplus.png" group-title="Unknown",Sana Plus
-https://jiotvmblive.cdn.jio.com/bpk-tv/sanaplus/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Subin TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/subintvtamil.png" group-title="Unknown",Subin TV
-https://jiotvmblive.cdn.jio.com/bpk-tv/subintvtamil/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="P18 News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/p18news.png" group-title="Unknown",P18 News
-https://jiotvmblive.cdn.jio.com/bpk-tv/p18news/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="INWILD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Inwild.png" group-title="Unknown",INWILD
-https://jiotvmblive.cdn.jio.com/bpk-tv/Inwild/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="INTRAVEL" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Intravel.png" group-title="Unknown",INTRAVEL
-https://jiotvmblive.cdn.jio.com/bpk-tv/Intravel/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="NTC TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ntvtamil.png" group-title="Unknown",NTC TV
-https://jiotvmblive.cdn.jio.com/bpk-tv/ntvtamil/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Suriya TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/suryatvtamil.png" group-title="Unknown",Suriya TV
-https://jiotvmblive.cdn.jio.com/bpk-tv/suryatvtamil/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Aaryaa TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/aryatvtamil.png" group-title="Unknown",Aaryaa TV
-https://jiotvmblive.cdn.jio.com/bpk-tv/aryatvtamil/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Ultimate TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/utvtamil.png" group-title="Unknown",Ultimate TV
-https://jiotvmblive.cdn.jio.com/bpk-tv/utvtamil/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Swastik Stories" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swastik_Stories.png" group-title="Unknown",Swastik Stories
-https://jiotvmblive.cdn.jio.com/bpk-tv/Swastik_Stories/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Metro TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/metrotv.png" group-title="Unknown",Metro TV
-https://jiotvmblive.cdn.jio.com/bpk-tv/metrotv/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Roja TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/rojatv.png" group-title="Unknown",Roja TV
-https://jiotvmblive.cdn.jio.com/bpk-tv/rojatv/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Roja Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/rojamovies.png" group-title="Unknown",Roja Movies
-https://jiotvmblive.cdn.jio.com/bpk-tv/rojamovies/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Nation News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/nationnews.png" group-title="Unknown",Nation News
-https://jiotvmblive.cdn.jio.com/bpk-tv/nationnews/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="TOI Global" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/npnhm84gz9.png" group-title="Unknown",TOI Global
-https://jiotvmblive.cdn.jio.com/bpk-tv/npnhm84gz9/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Raatdin Tripura" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/raatdintripura.png" group-title="Unknown",Raatdin Tripura
-https://jiotvmblive.cdn.jio.com/bpk-tv/raatdintripura/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Swastik TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/swastiktv.png" group-title="Unknown",Swastik TV
-https://jiotvmblive.cdn.jio.com/bpk-tv/swastiktv/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Green Gold TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/greengold.png" group-title="Unknown",Green Gold TV
-https://jiotvmblive.cdn.jio.com/bpk-tv/greengold/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="NSC9 News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/nsc9.png" group-title="Unknown",NSC9 News
-https://jiotvmblive.cdn.jio.com/bpk-tv/nsc9/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Stingray Classic Rock" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ose-101ads-montreal.png" group-title="Unknown",Stingray Classic Rock
-https://jiotvmblive.cdn.jio.com/bpk-tv/ose-101ads-montreal/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Stingray Greatest Hits" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ose-155ads-montreal.png" group-title="Unknown",Stingray Greatest Hits
-https://jiotvmblive.cdn.jio.com/bpk-tv/ose-155ads-montreal/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Stingray Cozy Cafe" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/cozycafe-400ads_cafe001-tokyo.png" group-title="Unknown",Stingray Cozy Cafe
-https://jiotvmblive.cdn.jio.com/bpk-tv/cozycafe-400ads_cafe001-tokyo/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Amar Ujala" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/amarujala.png" group-title="Unknown",Amar Ujala
-https://jiotvmblive.cdn.jio.com/bpk-tv/amarujala/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="AlrightTV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/alrght.png" group-title="Unknown",AlrightTV
-https://jiotvmblive.cdn.jio.com/bpk-tv/alrght/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Kadak NW18" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kadak_NW18.png" group-title="Unknown",Kadak NW18
-https://nw18live.cdn.jio.com/bpk-tv/Kadak_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-name="R Maxx Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/rmaxx.png" group-title="Unknown",R Maxx Kannada
-https://jiotvmblive.cdn.jio.com/bpk-tv/rmaxx/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Cine Jomjomat" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cine_Jomjomat.png" group-title="Unknown",Cine Jomjomat
-https://jiotvmblive.cdn.jio.com/bpk-tv/Cine_Jomjomat/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="Journy" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/amg02159c11.png" group-title="Unknown",Journy
-https://jiotvmblive.cdn.jio.com/bpk-tv/amg02159c11/HLSPartner/index.m3u8
-#EXTINF:-1 tvg-name="4 SiDES TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/4sites.png" group-title="Unknown",4 SiDES TV
-https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8
+#EXTINF:-1 tvg-name="India vs Nepal - 6 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028334/179382987686754_ACC_MensU19_India_vs_Nepal_live_landscape_thumb.jpg" group-title="sonyliv-Cricket",India vs Nepal - 6 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793988573~acl=/*~id=57920162050962572357144919181260~hmac=f01364b5389f53576542dc9d18782220645db365e19bb9c5ab421d87a449f068
+#EXTINF:-1 tvg-name="India vs Nepal - 6 Nov 2026 [HIN] - ACC Men's U19 Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028334/179382987686754_ACC_MensU19_India_vs_Nepal_live_landscape_thumb.jpg" group-title="sonyliv-Cricket",India vs Nepal - 6 Nov 2026 [HIN] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793988573~acl=/*~id=57920162050962572357144919181260~hmac=f01364b5389f53576542dc9d18782220645db365e19bb9c5ab421d87a449f068
+#EXTINF:-1 tvg-name="India vs Nepal - 6 Nov 2026 [TAM] - ACC Men's U19 Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028334/179382987686754_ACC_MensU19_India_vs_Nepal_live_landscape_thumb.jpg" group-title="sonyliv-Cricket",India vs Nepal - 6 Nov 2026 [TAM] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793988573~acl=/*~id=57920162050962572357144919181260~hmac=f01364b5389f53576542dc9d18782220645db365e19bb9c5ab421d87a449f068
+#EXTINF:-1 tvg-name="India vs Nepal - 6 Nov 2026 [TEL] - ACC Men's U19 Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028334/179382987686754_ACC_MensU19_India_vs_Nepal_live_landscape_thumb.jpg" group-title="sonyliv-Cricket",India vs Nepal - 6 Nov 2026 [TEL] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793988573~acl=/*~id=57920162050962572357144919181260~hmac=f01364b5389f53576542dc9d18782220645db365e19bb9c5ab421d87a449f068
+#EXTINF:-1 tvg-name="India vs Nepal - 6 Nov 2026 [KAN] - ACC Men's U19 Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028334/179382987686754_ACC_MensU19_India_vs_Nepal_live_landscape_thumb.jpg" group-title="sonyliv-Cricket",India vs Nepal - 6 Nov 2026 [KAN] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793988573~acl=/*~id=57920162050962572357144919181260~hmac=f01364b5389f53576542dc9d18782220645db365e19bb9c5ab421d87a449f068
+#EXTINF:-1 tvg-name="Pakistan vs UAE - 6 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028380/179387004341970_ACC_MensU19_Pakistan_vs_UAE_live_landscape_thumb.jpg" group-title="sonyliv-Cricket",Pakistan vs UAE - 6 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793988573~acl=/*~id=57920162050962572357144919181260~hmac=f01364b5389f53576542dc9d18782220645db365e19bb9c5ab421d87a449f068
 #EXTINF:-1 tvg-name="STAR SPORTS 2 Hindi HD" tvg-logo="https://i.ibb.co/YBMBDWtd/SS2HD-HINDI.jpg" group-title="Sports",STAR SPORTS 2 Hindi HD
 https://jcevents.hotstar.com/bpk-tv/082c75fa2fec61647e9192140d488d30/JioHotstar/082c75fa2fec61647e9192140d488d30.m3u8
 #EXTINF:-1 tvg-name="STAR SPORTS 2 Tamil" tvg-logo="https://i.ibb.co/cXNb5Y9t/SS2-TAMIL.jpg" group-title="Sports",STAR SPORTS 2 Tamil
