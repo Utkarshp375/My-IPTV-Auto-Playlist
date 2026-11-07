@@ -1,33 +1,5 @@
 [
   {
-    "name": "Chennaiyin FC vs East Bengal FC - 7 Nov 2026 [ENG] - MG Indian Super League 2026-27",
-    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794101739~acl=/*~id=17114961286778812112220100992498~hmac=d11a28f681696c26ceed8c6464bd3471cf84b5776e9efb1f716e4e4a80294c59",
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792886014840355_ISL26_ChennaiyinFC_vs_EBFC_live_landscape_thumb.jpg",
-    "group": "SonyLIV | Sportlink",
-    "source": "Sportlink Update"
-  },
-  {
-    "name": "Chennaiyin FC vs East Bengal FC - 7 Nov 2026 [HIN] - MG Indian Super League 2026-27",
-    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794101739~acl=/*~id=17114961286778812112220100992498~hmac=d11a28f681696c26ceed8c6464bd3471cf84b5776e9efb1f716e4e4a80294c59",
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792886014840355_ISL26_ChennaiyinFC_vs_EBFC_live_landscape_thumb.jpg",
-    "group": "SonyLIV | Sportlink",
-    "source": "Sportlink Update"
-  },
-  {
-    "name": "Chennaiyin FC vs East Bengal FC - 7 Nov 2026 [TAM] - MG Indian Super League 2026-27",
-    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive0711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794101739~acl=/*~id=17114961286778812112220100992498~hmac=d11a28f681696c26ceed8c6464bd3471cf84b5776e9efb1f716e4e4a80294c59",
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792886014840355_ISL26_ChennaiyinFC_vs_EBFC_live_landscape_thumb.jpg",
-    "group": "SonyLIV | Sportlink",
-    "source": "Sportlink Update"
-  },
-  {
-    "name": "Chennaiyin FC vs East Bengal FC - 7 Nov 2026 [BEN] - MG Indian Super League 2026-27",
-    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive0711/BEN/std_lrh-800300010.m3u8?hdnea=exp=1794101739~acl=/*~id=17114961286778812112220100992498~hmac=d11a28f681696c26ceed8c6464bd3471cf84b5776e9efb1f716e4e4a80294c59",
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792886014840355_ISL26_ChennaiyinFC_vs_EBFC_live_landscape_thumb.jpg",
-    "group": "SonyLIV | Sportlink",
-    "source": "Sportlink Update"
-  },
-  {
     "name": "B4U Movies",
     "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/b4u_movies/HLSPartner/index.m3u8",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/b4u_movies.png",
@@ -1844,13 +1816,6 @@
     "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg\" group-title=\"Fancode-Cricket\", West Indies tour of Bangladesh, 2026 [English]",
     "url": "https://in-mc-flive.fancode.com/mumbai/4250527_english_hls_370c69458425280_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794142909~_GO=Generated~acl=/mumbai/4250527_english_hls_370c69458425280_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_bf128757-cd6f-46~Signature=AV7HGj72HTSskE-5S3OUTo1vwSnW-IKM3vgu37don46OY2WkmyyjXQQNILJnzrNhfhg4HNpJiX6FCZRSQ9BU-XXmlhoL",
     "logo": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg",
-    "group": "Fancode-Cricket",
-    "source": "FanCode Auto Update"
-  },
-  {
-    "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-ZIM_Test_fc-web.jpg\" group-title=\"Fancode-Cricket\", Zimbabwe Tour of Afghanistan in UAE, 2026 [English]",
-    "url": "https://in-mc-flive.fancode.com/mumbai/4249772_english_hls_ea87fdf83418752_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794116998~_GO=Generated~acl=/mumbai/4249772_english_hls_ea87fdf83418752_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_96340a24-e421-48~Signature=AV7HGj5tf3vV0Y-VZKugQ4s3tS-bHnF-WUJYIUymfvNi_UsH97hsD13MoaE2xC8sJjVYB4n_6YxnIkfMtd4VXluSp6QO",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-ZIM_Test_fc-web.jpg",
     "group": "Fancode-Cricket",
     "source": "FanCode Auto Update"
   },
