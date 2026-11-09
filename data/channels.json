@@ -1,8 +1,15 @@
 [
   {
-    "name": "3rd Unofficial Test - Day 3 - 9 Nov 2026 [ENG] - India A Tour of New Zealand",
-    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794226192~acl=/*~id=52559458129282236504396273943011~hmac=9d96e72d8af86b3591b9a1a9c07b0623472855b7def28618813df01a394cc404",
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793956566466809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day3_landscape_thumb.jpg",
+    "name": "Sri Lanka vs Afghanistan - 9 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026",
+    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794252832~acl=/*~id=38866878539251073564876705757723~hmac=2e49bd41e743148af974898c93b819782253915e0b0b755736debe8656d9c5df",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028502/1793999538076640_ACC_MensU19_Sri_Lanka_vs_Afghanistan_live_landscape_thumb.jpg",
+    "group": "SonyLIV | Sportlink",
+    "source": "Sportlink Update"
+  },
+  {
+    "name": "Bangladesh vs Malaysia - 9 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026",
+    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Criclive0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794252832~acl=/*~id=38866878539251073564876705757723~hmac=2e49bd41e743148af974898c93b819782253915e0b0b755736debe8656d9c5df",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028501/1793998959168722_ACC_MensU19_Bangladesh_vs_Malaysia_live_landscape_thumb.jpg",
     "group": "SonyLIV | Sportlink",
     "source": "Sportlink Update"
   },
@@ -987,18 +994,25 @@
     "source": "Sportlink Update"
   },
   {
-    "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship_Web-match-card_1793992817308.png\" group-title=\"Fancode-Golf\", World Wide Technology Championship 2026 [English]",
-    "url": "https://in-mc-flive.fancode.com/mumbai/4250600_english_hls_ba8a5e093433776_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794253794~_GO=Generated~acl=/mumbai/4250600_english_hls_ba8a5e093433776_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_11d0972e-ca89-41~Signature=AV7HGj4nJJ-m0mlqYTpkmoW6rNOktPyLNvrVyeQ1Q5qLp2RMUqKTvwHXo_2Z6vdGOvkj-sMejRacsOUJVCptrRiwu0MB",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship_Web-match-card_1793992817308.png",
-    "group": "Fancode-Golf",
+    "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg\" group-title=\"Fancode-Cricket\", West Indies tour of Bangladesh, 2026 [English]",
+    "url": "https://in-mc-flive.fancode.com/mumbai/4250527_english_hls_370c69458446842_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794280710~_GO=Generated~acl=/mumbai/4250527_english_hls_370c69458446842_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_98e9f853-04c3-41~Signature=AV7HGj4HDyVZ8b3h_B_A2W1NEhQGWfaniEFlOf1ydV8ARSUA-eENtw3B8dw3_yhXz4TlHstF2WH1cgS4BSBC2HPwp6MC",
+    "logo": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg",
+    "group": "Fancode-Cricket",
     "source": "FanCode Auto Update"
   },
   {
-    "name": "3rd Unofficial Test - Day 3 - 9 Nov 2026 [ENG] - India A Tour of New Zealand",
-    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794227402~acl=/*~id=36774531582530991269650907728590~hmac=948ac0651cc536e77dc20c2385f12ee6ff898bfd605dcca8c09aaaf67221cbcb",
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793956566466809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day3_landscape_thumb.jpg",
-    "group": "sonyliv-Cricket",
-    "source": "SonyLIV Auto Update"
+    "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-ZIM_Test_fc-web.jpg\" group-title=\"Fancode-Cricket\", Zimbabwe Tour of Afghanistan in UAE, 2026 [English]",
+    "url": "https://in-mc-flive.fancode.com/mumbai/4249772_english_hls_ea87fdf83461346_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794289794~_GO=Generated~acl=/mumbai/4249772_english_hls_ea87fdf83461346_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_1f0fdc1d-6d15-4e~Signature=AV7HGj4a1rpqFhT6QC5Xq7sh8PaoICZKMuy3YXoTIjMt3DvcOi6am1nhvZpeSWChRngrJW3dKY1a6goB9Lxmq7EWXSQC",
+    "logo": "https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-ZIM_Test_fc-web.jpg",
+    "group": "Fancode-Cricket",
+    "source": "FanCode Auto Update"
+  },
+  {
+    "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/4250373_53124_PKA_KNY_fc-Web_1793616702356.jpg\" group-title=\"Fancode-Cricket\", Nepal Premier League Season 3, 2026 [English]",
+    "url": "https://in-mc-flive.fancode.com/mumbai/4250373_english_hls_c42dd1db2742464_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794292218~_GO=Generated~acl=/mumbai/4250373_english_hls_c42dd1db2742464_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_5971b617-9531-42~Signature=AV7HGj6z753U_W1aGLY9u1C6BmGDX94DseiQKTSAqRj3vHs50Y6wXTFDL0hYbR3llt65QmQxNfw39SG9PSmnc_rQoEsK",
+    "logo": "https://www.fancode.com/skillup-uploads/cms-media/4250373_53124_PKA_KNY_fc-Web_1793616702356.jpg",
+    "group": "Fancode-Cricket",
+    "source": "FanCode Auto Update"
   },
   {
     "name": "STAR SPORTS 2 Hindi HD",
