@@ -1,4 +1,3 @@
-
 {
   "playlist_title": "My IPTV Auto Playlist",
   "update_interval_minutes": 30,
@@ -6,7 +5,7 @@
   "sources": [
     {
       "name": "All-Playlist (sportlive18)",
-      "url": "https://raw.githubusercontent.com/sportlive18/All-Playlist/main/combined.m3u",
+      "url": "https://raw.githubusercontent.com/sportlive18/All-Playlist/main/Combined.m3u",
       "enabled": true,
       "format": "m3u",
       "type": "combined"
