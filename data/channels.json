@@ -1,8 +1,64 @@
 [
   {
-    "name": "DP World Tour Championship, Dubai - Day 2 - 13 Nov 2026 [ENG] - DP World Tour",
-    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Golf_DPW1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794613411~acl=/*~id=84957762994122974006430631183011~hmac=8e2ba2cd91285ef600700c90f22afd27ec7b88ccbee8c5be7f45dd20c999fea0",
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398866789427_DP_World_Tour_Championship_Dubai_day2_landscape_thumb.jpg",
+    "name": "Serbia vs Germany - 14 Nov 2026 [ENG] - UEFA Nations League 2026-27",
+    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794640049~acl=/*~id=84175697540506752051650391616775~hmac=ec61be90c0195bc4bab3b1762eb486b81548c71c100fa8fcef3d7853005ce646",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027697/1793265313818308_UNL26_MD5_Serbia-vs-Germany_live_landscape_thumb.jpg",
+    "group": "SonyLIV | Sportlink",
+    "source": "All-Playlist (sportlive18)"
+  },
+  {
+    "name": "Netherlands vs Greece - 14 Nov 2026 [ENG] - UEFA Nations League 2026-27",
+    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794640049~acl=/*~id=84175697540506752051650391616775~hmac=ec61be90c0195bc4bab3b1762eb486b81548c71c100fa8fcef3d7853005ce646",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027697/1793264939591308_UNL26_MD5_Netherlands-vs-Greece_live_landscape_thumb.jpg",
+    "group": "SonyLIV | Sportlink",
+    "source": "All-Playlist (sportlive18)"
+  },
+  {
+    "name": "Scotland vs North Macedonia - 14 Nov 2026 [ENG] - UEFA Nations League 2026-27",
+    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794640049~acl=/*~id=84175697540506752051650391616775~hmac=ec61be90c0195bc4bab3b1762eb486b81548c71c100fa8fcef3d7853005ce646",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027697/1793265664194308_UNL26_MD5_Scotland-vs-North-Macedonia_live_landscape_thumb.jpg",
+    "group": "SonyLIV | Sportlink",
+    "source": "All-Playlist (sportlive18)"
+  },
+  {
+    "name": "Slovenia vs Switzerland - 14 Nov 2026 [ENG] - UEFA Nations League 2026-27",
+    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794640049~acl=/*~id=84175697540506752051650391616775~hmac=ec61be90c0195bc4bab3b1762eb486b81548c71c100fa8fcef3d7853005ce646",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027697/1793268082681308_UNL26_MD5_Slovenia-vs-Switzerland_live_landscape_thumb.jpg",
+    "group": "SonyLIV | Sportlink",
+    "source": "All-Playlist (sportlive18)"
+  },
+  {
+    "name": "Slovakia vs Faroe Islands - 14 Nov 2026 [ENG] - UEFA Nations League 2026-27",
+    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794640049~acl=/*~id=84175697540506752051650391616775~hmac=ec61be90c0195bc4bab3b1762eb486b81548c71c100fa8fcef3d7853005ce646",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027679/1793268453181413_UNL26_MD5_Slovakia-vs-Faroe-Islands_live_landscape_thumb.jpg",
+    "group": "SonyLIV | Sportlink",
+    "source": "All-Playlist (sportlive18)"
+  },
+  {
+    "name": "Luxembourg vs Estonia - 14 Nov 2026 [ENG] - UEFA Nations League 2026-27",
+    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794640049~acl=/*~id=84175697540506752051650391616775~hmac=ec61be90c0195bc4bab3b1762eb486b81548c71c100fa8fcef3d7853005ce646",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027679/1793261726288413_UNL26_MD5_Luxembourg-vs-Estonia_live_landscape_thumb.jpg",
+    "group": "SonyLIV | Sportlink",
+    "source": "All-Playlist (sportlive18)"
+  },
+  {
+    "name": "Bulgaria vs Iceland - 14 Nov 2026 [ENG] - UEFA Nations League 2026-27",
+    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794640049~acl=/*~id=84175697540506752051650391616775~hmac=ec61be90c0195bc4bab3b1762eb486b81548c71c100fa8fcef3d7853005ce646",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027677/1793268962592871_UNL26_MD5_Bulgaria-vs-Iceland_live_landscape_thumb.jpg",
+    "group": "SonyLIV | Sportlink",
+    "source": "All-Playlist (sportlive18)"
+  },
+  {
+    "name": "Andorra vs Gibraltar - 14 Nov 2026 [ENG] - UEFA Nations League 2026-27",
+    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794640049~acl=/*~id=84175697540506752051650391616775~hmac=ec61be90c0195bc4bab3b1762eb486b81548c71c100fa8fcef3d7853005ce646",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027679/1793262839044413_UNL26_MD5_Andorra-vs-Gibraltar_live_landscape_thumb.jpg",
+    "group": "SonyLIV | Sportlink",
+    "source": "All-Playlist (sportlive18)"
+  },
+  {
+    "name": "Liechtenstein vs Azerbaijan - 14 Nov 2026 [ENG] - UEFA Nations League 2026-27",
+    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794640049~acl=/*~id=84175697540506752051650391616775~hmac=ec61be90c0195bc4bab3b1762eb486b81548c71c100fa8fcef3d7853005ce646",
+    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027679/1793263090710413_UNL26_MD5_Liechtenstein-vs-Azerbaijan_live_landscape_thumb.jpg",
     "group": "SonyLIV | Sportlink",
     "source": "All-Playlist (sportlive18)"
   },
@@ -1811,13 +1867,6 @@
     "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-pictures/list/1920x1080liste1864f84ee8f422e9a726e5fe401050c.png",
     "group": "Zee5 | Sportlink",
     "source": "All-Playlist (sportlive18)"
-  },
-  {
-    "name": "Moldova vs Kazakhstan - 13 Nov 2026 [ENG] - UEFA Nations League 2026-27",
-    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794637628~acl=/*~id=17548431924870706444785396596707~hmac=be1984806889137760d1c1f6e08eb2ee5d4827c60931b07452a5fc0a33ff1873",
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027677/1793258155606871_UNL26_MD5_Moldova-vs-Kazakhstan_live_landscape_thumb.jpg",
-    "group": "SonyLIV | Sportlink",
-    "source": "Sportlink Update"
   },
   {
     "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/4250376_53124_BK_PKA_fc-Web_1793616701804.jpg\" group-title=\"Fancode-Cricket\", Nepal Premier League Season 3, 2026 [English]",
