@@ -1,19 +1,5 @@
 [
   {
-    "name": "Norway vs Wales - 14 Nov 2026 [ENG] - UEFA Nations League 2026-27",
-    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2094587/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794725176~acl=/*~id=45955600719298573437534086527297~hmac=e9af670bb1172f87bd2293bd1bcb20f42385d45706fe49a7cf4ad4ca159073a4",
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027688/1793269515520450_UNL26_MD5_Norway-vs-Wales_live_landscape_thumb.jpg",
-    "group": "SonyLIV | Sportlink",
-    "source": "All-Playlist (sportlive18)"
-  },
-  {
-    "name": "Georgia vs Hungary - 14 Nov 2026 [ENG] - UEFA Nations League 2026-27",
-    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794725176~acl=/*~id=45955600719298573437534086527297~hmac=e9af670bb1172f87bd2293bd1bcb20f42385d45706fe49a7cf4ad4ca159073a4",
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027688/1793269264284450_UNL26_MD5_Georgia-vs-Hungary_live_landscape_thumb.jpg",
-    "group": "SonyLIV | Sportlink",
-    "source": "All-Playlist (sportlive18)"
-  },
-  {
     "name": "B4U Movies",
     "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/b4u_movies/HLSPartner/index.m3u8",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/b4u_movies.png",
@@ -1818,20 +1804,6 @@
     "logo": "https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-pictures/list/1920x1080liste1864f84ee8f422e9a726e5fe401050c.png",
     "group": "Zee5 | Sportlink",
     "source": "All-Playlist (sportlive18)"
-  },
-  {
-    "name": "Norway vs Wales - 14 Nov 2026 [ENG] - UEFA Nations League 2026-27",
-    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2094587/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794725782~acl=/*~id=62778833265602771250225566040798~hmac=92e6eb98991644b43fcdba71366593e6fe3f613a247d4f567b29f3b384251489",
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027688/1793269515520450_UNL26_MD5_Norway-vs-Wales_live_landscape_thumb.jpg",
-    "group": "SonyLIV | Sportlink",
-    "source": "Sportlink Update"
-  },
-  {
-    "name": "Georgia vs Hungary - 14 Nov 2026 [ENG] - UEFA Nations League 2026-27",
-    "url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794725782~acl=/*~id=62778833265602771250225566040798~hmac=92e6eb98991644b43fcdba71366593e6fe3f613a247d4f567b29f3b384251489",
-    "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027688/1793269264284450_UNL26_MD5_Georgia-vs-Hungary_live_landscape_thumb.jpg",
-    "group": "SonyLIV | Sportlink",
-    "source": "Sportlink Update"
   },
   {
     "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card-2.png\" group-title=\"Fancode-Football\", Fleetwood Town vs Tranmere Rovers (League Two 2026-27)",
