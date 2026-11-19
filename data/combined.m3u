@@ -1,15 +1,9 @@
 #EXTM3U
 #PLAYLIST:My IPTV Auto Playlist
-#EXTINF:-1 tvg-name="1st Test - Day 1 - 19 Nov 2026 [ENG] - India Tour of New Zealand 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029286/1794981614833787_NZvsIND_1st_test_day1_landscape_thumb.jpg" group-title="SonyLIV | Sportlink",1st Test - Day 1 - 19 Nov 2026 [ENG] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795097600~acl=/*~id=90555549362668534117868867926248~hmac=b41a87be7ab6608ec447766b45af79cef1e0e250cb1438601a0e9415c647bc4e
-#EXTINF:-1 tvg-name="1st Test - Day 1 - 19 Nov 2026 [HIN] - India Tour of New Zealand 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029286/1794981614833787_NZvsIND_1st_test_day1_landscape_thumb.jpg" group-title="SonyLIV | Sportlink",1st Test - Day 1 - 19 Nov 2026 [HIN] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795097600~acl=/*~id=90555549362668534117868867926248~hmac=b41a87be7ab6608ec447766b45af79cef1e0e250cb1438601a0e9415c647bc4e
-#EXTINF:-1 tvg-name="1st Test - Day 1 - 19 Nov 2026 [TAM] - India Tour of New Zealand 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029286/1794981614833787_NZvsIND_1st_test_day1_landscape_thumb.jpg" group-title="SonyLIV | Sportlink",1st Test - Day 1 - 19 Nov 2026 [TAM] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795097600~acl=/*~id=90555549362668534117868867926248~hmac=b41a87be7ab6608ec447766b45af79cef1e0e250cb1438601a0e9415c647bc4e
-#EXTINF:-1 tvg-name="1st Test - Day 1 - 19 Nov 2026 [TEL] - India Tour of New Zealand 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029286/1794981614833787_NZvsIND_1st_test_day1_landscape_thumb.jpg" group-title="SonyLIV | Sportlink",1st Test - Day 1 - 19 Nov 2026 [TEL] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795097600~acl=/*~id=90555549362668534117868867926248~hmac=b41a87be7ab6608ec447766b45af79cef1e0e250cb1438601a0e9415c647bc4e
-#EXTINF:-1 tvg-name="1st Test - Day 1 - 19 Nov 2026 [KAN] - India Tour of New Zealand 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029286/1794981614833787_NZvsIND_1st_test_day1_landscape_thumb.jpg" group-title="SonyLIV | Sportlink",1st Test - Day 1 - 19 Nov 2026 [KAN] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795097600~acl=/*~id=90555549362668534117868867926248~hmac=b41a87be7ab6608ec447766b45af79cef1e0e250cb1438601a0e9415c647bc4e
+#EXTINF:-1 tvg-name="Sri Lanka A vs Afghanistan A - 19 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029388/1795079673412862_ACRS26_SLvsAFG_landscape_thumb.jpg" group-title="SonyLIV | Sportlink",Sri Lanka A vs Afghanistan A - 19 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795127351~acl=/*~id=96336932241568969093125852297616~hmac=7a8056af23e981a2f9acc783e75073d04abcdba5ce1548b8db1d0c5ee850e718
+#EXTINF:-1 tvg-name="Bangladesh A vs Hong Kong, China - 19 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029365/1795067857037235_ACRS26_BANvsHKC_landscape_thumb.jpg" group-title="SonyLIV | Sportlink",Bangladesh A vs Hong Kong, China - 19 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2120300/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795127351~acl=/*~id=96336932241568969093125852297616~hmac=7a8056af23e981a2f9acc783e75073d04abcdba5ce1548b8db1d0c5ee850e718
 #EXTINF:-1 tvg-name="B4U Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/b4u_movies.png" group-title="Movies | Sportlink",B4U Movies
 https://jiotvmblive.cdn.jio.com/bpk-tv/b4u_movies/HLSPartner/index.m3u8
 #EXTINF:-1 tvg-name="B4U Kadak" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="Movies | Sportlink",B4U Kadak
@@ -59,51 +53,51 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/globalpunjab/HLSPartner/index.m3u8
 #EXTINF:-1 tvg-name="Sikh Ratnavali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sikh_Ratnavali.png" group-title="Punjabi | Sportlink",Sikh Ratnavali
 https://jiotvmblive.cdn.jio.com/bpk-tv/SikhRatnavali/HLSPartner/index.m3u8
 #EXTINF:-1 tvg-name="Sony Entertainment Television HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Sony Live | Sportlink",Sony Entertainment Television HD
-https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1795084753~acl=/*~id=68652231499668719175978150330271~hmac=3557382d6a3f7943a0ccadc6ead03db7fed2f2f76c5715ca4bd0d4f8672dfd2d
+https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1795120788~acl=/*~id=95382421085737260841219193385530~hmac=a597103b09df77f74e6931bc7cd76bc280d78b1532959cbcea1699dd49da1176
 #EXTINF:-1 tvg-name="Sony SAB HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Sony Live | Sportlink",Sony SAB HD
-https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1795084753~acl=/*~id=68652231499668719175978150330271~hmac=3557382d6a3f7943a0ccadc6ead03db7fed2f2f76c5715ca4bd0d4f8672dfd2d
+https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1795120788~acl=/*~id=95382421085737260841219193385530~hmac=a597103b09df77f74e6931bc7cd76bc280d78b1532959cbcea1699dd49da1176
 #EXTINF:-1 tvg-name="Sony PAL" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Sony Live | Sportlink",Sony PAL
-https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1795084753~acl=/*~id=68652231499668719175978150330271~hmac=3557382d6a3f7943a0ccadc6ead03db7fed2f2f76c5715ca4bd0d4f8672dfd2d
+https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1795120788~acl=/*~id=95382421085737260841219193385530~hmac=a597103b09df77f74e6931bc7cd76bc280d78b1532959cbcea1699dd49da1176
 #EXTINF:-1 tvg-name="Sony WAH" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Sony Live | Sportlink",Sony WAH
-https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1795084753~acl=/*~id=68652231499668719175978150330271~hmac=3557382d6a3f7943a0ccadc6ead03db7fed2f2f76c5715ca4bd0d4f8672dfd2d
+https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1795120788~acl=/*~id=95382421085737260841219193385530~hmac=a597103b09df77f74e6931bc7cd76bc280d78b1532959cbcea1699dd49da1176
 #EXTINF:-1 tvg-name="Sony MAX" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="Sony Live | Sportlink",Sony MAX
-https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1795084753~acl=/*~id=68652231499668719175978150330271~hmac=3557382d6a3f7943a0ccadc6ead03db7fed2f2f76c5715ca4bd0d4f8672dfd2d
+https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1795120788~acl=/*~id=95382421085737260841219193385530~hmac=a597103b09df77f74e6931bc7cd76bc280d78b1532959cbcea1699dd49da1176
 #EXTINF:-1 tvg-name="Sony MAX HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Sony Live | Sportlink",Sony MAX HD
-https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1795084753~acl=/*~id=68652231499668719175978150330271~hmac=3557382d6a3f7943a0ccadc6ead03db7fed2f2f76c5715ca4bd0d4f8672dfd2d
+https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1795120788~acl=/*~id=95382421085737260841219193385530~hmac=a597103b09df77f74e6931bc7cd76bc280d78b1532959cbcea1699dd49da1176
 #EXTINF:-1 tvg-name="Sony MAX 2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Sony Live | Sportlink",Sony MAX 2
-https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1795084753~acl=/*~id=68652231499668719175978150330271~hmac=3557382d6a3f7943a0ccadc6ead03db7fed2f2f76c5715ca4bd0d4f8672dfd2d
+https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1795120788~acl=/*~id=95382421085737260841219193385530~hmac=a597103b09df77f74e6931bc7cd76bc280d78b1532959cbcea1699dd49da1176
 #EXTINF:-1 tvg-name="Sony PIX HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Sony Live | Sportlink",Sony PIX HD
-https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1795084753~acl=/*~id=68652231499668719175978150330271~hmac=3557382d6a3f7943a0ccadc6ead03db7fed2f2f76c5715ca4bd0d4f8672dfd2d
+https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1795120788~acl=/*~id=95382421085737260841219193385530~hmac=a597103b09df77f74e6931bc7cd76bc280d78b1532959cbcea1699dd49da1176
 #EXTINF:-1 tvg-name="Sony BBC Earth HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Sony Live | Sportlink",Sony BBC Earth HD
-https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1795084753~acl=/*~id=68652231499668719175978150330271~hmac=3557382d6a3f7943a0ccadc6ead03db7fed2f2f76c5715ca4bd0d4f8672dfd2d
+https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1795120788~acl=/*~id=95382421085737260841219193385530~hmac=a597103b09df77f74e6931bc7cd76bc280d78b1532959cbcea1699dd49da1176
 #EXTINF:-1 tvg-name="Sony YAY !!" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/12_259.png" group-title="Sony Live | Sportlink",Sony YAY !!
-https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1795084753~acl=/*~id=68652231499668719175978150330271~hmac=3557382d6a3f7943a0ccadc6ead03db7fed2f2f76c5715ca4bd0d4f8672dfd2d
+https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1795120788~acl=/*~id=95382421085737260841219193385530~hmac=a597103b09df77f74e6931bc7cd76bc280d78b1532959cbcea1699dd49da1176
 #EXTINF:-1 tvg-name="Sony Marathi !!" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Sony Live | Sportlink",Sony Marathi !!
-https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1795084753~acl=/*~id=68652231499668719175978150330271~hmac=3557382d6a3f7943a0ccadc6ead03db7fed2f2f76c5715ca4bd0d4f8672dfd2d
+https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1795120788~acl=/*~id=95382421085737260841219193385530~hmac=a597103b09df77f74e6931bc7cd76bc280d78b1532959cbcea1699dd49da1176
 #EXTINF:-1 tvg-name="Sony AATH" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Sony Live | Sportlink",Sony AATH
-https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1795084753~acl=/*~id=68652231499668719175978150330271~hmac=3557382d6a3f7943a0ccadc6ead03db7fed2f2f76c5715ca4bd0d4f8672dfd2d
+https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1795120788~acl=/*~id=95382421085737260841219193385530~hmac=a597103b09df77f74e6931bc7cd76bc280d78b1532959cbcea1699dd49da1176
 #EXTINF:-1 tvg-name="Sony Sports 1" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/20_262.png" group-title="Sony Live | Sportlink",Sony Sports 1
-https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8?hdnea=exp=1795084753~acl=/*~id=68652231499668719175978150330271~hmac=3557382d6a3f7943a0ccadc6ead03db7fed2f2f76c5715ca4bd0d4f8672dfd2d
+https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8?hdnea=exp=1795120788~acl=/*~id=95382421085737260841219193385530~hmac=a597103b09df77f74e6931bc7cd76bc280d78b1532959cbcea1699dd49da1176
 #EXTINF:-1 tvg-name="Sony Sports 1 HD" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/21_266.png" group-title="Sony Live | Sportlink",Sony Sports 1 HD
-https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1795084753~acl=/*~id=68652231499668719175978150330271~hmac=3557382d6a3f7943a0ccadc6ead03db7fed2f2f76c5715ca4bd0d4f8672dfd2d
+https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1795120788~acl=/*~id=95382421085737260841219193385530~hmac=a597103b09df77f74e6931bc7cd76bc280d78b1532959cbcea1699dd49da1176
 #EXTINF:-1 tvg-name="Sony Sports 2" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/22_261.png" group-title="Sony Live | Sportlink",Sony Sports 2
-https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8?hdnea=exp=1795084753~acl=/*~id=68652231499668719175978150330271~hmac=3557382d6a3f7943a0ccadc6ead03db7fed2f2f76c5715ca4bd0d4f8672dfd2d
+https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8?hdnea=exp=1795120788~acl=/*~id=95382421085737260841219193385530~hmac=a597103b09df77f74e6931bc7cd76bc280d78b1532959cbcea1699dd49da1176
 #EXTINF:-1 tvg-name="Sony Sports 2 HD" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/23_267.png" group-title="Sony Live | Sportlink",Sony Sports 2 HD
-https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1795084753~acl=/*~id=68652231499668719175978150330271~hmac=3557382d6a3f7943a0ccadc6ead03db7fed2f2f76c5715ca4bd0d4f8672dfd2d
+https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1795120788~acl=/*~id=95382421085737260841219193385530~hmac=a597103b09df77f74e6931bc7cd76bc280d78b1532959cbcea1699dd49da1176
 #EXTINF:-1 tvg-name="Sony Sports 3 Hindi" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/24_274.png" group-title="Sony Live | Sportlink",Sony Sports 3 Hindi
-https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=exp=1795084753~acl=/*~id=68652231499668719175978150330271~hmac=3557382d6a3f7943a0ccadc6ead03db7fed2f2f76c5715ca4bd0d4f8672dfd2d
+https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=exp=1795120788~acl=/*~id=95382421085737260841219193385530~hmac=a597103b09df77f74e6931bc7cd76bc280d78b1532959cbcea1699dd49da1176
 #EXTINF:-1 tvg-name="Sony Sports 3 Hindi HD" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/25_276.png" group-title="Sony Live | Sportlink",Sony Sports 3 Hindi HD
-https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1795084753~acl=/*~id=68652231499668719175978150330271~hmac=3557382d6a3f7943a0ccadc6ead03db7fed2f2f76c5715ca4bd0d4f8672dfd2d
+https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1795120788~acl=/*~id=95382421085737260841219193385530~hmac=a597103b09df77f74e6931bc7cd76bc280d78b1532959cbcea1699dd49da1176
 #EXTINF:-1 tvg-name="Sony Sports 4 Tamil" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/38_275.png" group-title="Sony Live | Sportlink",Sony Sports 4 Tamil
-https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1795084753~acl=/*~id=68652231499668719175978150330271~hmac=3557382d6a3f7943a0ccadc6ead03db7fed2f2f76c5715ca4bd0d4f8672dfd2d
+https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1795120788~acl=/*~id=95382421085737260841219193385530~hmac=a597103b09df77f74e6931bc7cd76bc280d78b1532959cbcea1699dd49da1176
 #EXTINF:-1 tvg-name="Sony Sports 4 Telugu" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/39_277.png" group-title="Sony Live | Sportlink",Sony Sports 4 Telugu
-https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1795084753~acl=/*~id=68652231499668719175978150330271~hmac=3557382d6a3f7943a0ccadc6ead03db7fed2f2f76c5715ca4bd0d4f8672dfd2d
+https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1795120788~acl=/*~id=95382421085737260841219193385530~hmac=a597103b09df77f74e6931bc7cd76bc280d78b1532959cbcea1699dd49da1176
 #EXTINF:-1 tvg-name="Sony Sports 4 Kannada" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/SONY-SPORTS-TEN-4-KANNADA.png" group-title="Sony Live | Sportlink",Sony Sports 4 Kannada
-https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1795084753~acl=/*~id=68652231499668719175978150330271~hmac=3557382d6a3f7943a0ccadc6ead03db7fed2f2f76c5715ca4bd0d4f8672dfd2d
+https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1795120788~acl=/*~id=95382421085737260841219193385530~hmac=a597103b09df77f74e6931bc7cd76bc280d78b1532959cbcea1699dd49da1176
 #EXTINF:-1 tvg-name="Sony Sports 5" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/18_265.png" group-title="Sony Live | Sportlink",Sony Sports 5
-https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1795084753~acl=/*~id=68652231499668719175978150330271~hmac=3557382d6a3f7943a0ccadc6ead03db7fed2f2f76c5715ca4bd0d4f8672dfd2d
+https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1795120788~acl=/*~id=95382421085737260841219193385530~hmac=a597103b09df77f74e6931bc7cd76bc280d78b1532959cbcea1699dd49da1176
 #EXTINF:-1 tvg-name="Sony Sports 5 HD" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/19_270.png" group-title="Sony Live | Sportlink",Sony Sports 5 HD
-https://dishmt.slivcdn.com/hls/live/2020593/TEN5HD/master.m3u8?hdnea=exp=1795084753~acl=/*~id=68652231499668719175978150330271~hmac=3557382d6a3f7943a0ccadc6ead03db7fed2f2f76c5715ca4bd0d4f8672dfd2d
+https://dishmt.slivcdn.com/hls/live/2020593/TEN5HD/master.m3u8?hdnea=exp=1795120788~acl=/*~id=95382421085737260841219193385530~hmac=a597103b09df77f74e6931bc7cd76bc280d78b1532959cbcea1699dd49da1176
 #EXTINF:-1 tvg-name="Headlines Tripura" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Headlines_Tripura.png" group-title="Unknown | Sportlink",Headlines Tripura
 https://jiotvmblive.cdn.jio.com/bpk-tv/headlinestripura/HLSPartner/index.m3u8
 #EXTINF:-1 tvg-name="CNBC TV18." tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_TV18_NW18.png" group-title="Unknown | Sportlink",CNBC TV18.
